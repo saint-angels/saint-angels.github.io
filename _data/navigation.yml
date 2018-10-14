@@ -1,0 +1,9 @@
+main:
+- name: Home
+  title: Home
+  url: /index.html
+  description: desc 1
+- name: Games
+  title: Games
+  description: desc 2
+  url: /games.html
