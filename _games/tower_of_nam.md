@@ -1,0 +1,11 @@
+---
+layout: game
+title: Tower Of Nam
+small_image: tower_of_nam_small.png
+big_image: tower_of_nam_large.gif
+link: https://saint-angels.itch.io/tower-of-nam
+date: 2018-01-26
+---
+Short game set in 1975 Vietnam.
+
+All sounds(except rain sample) created with PO-32 synth. 

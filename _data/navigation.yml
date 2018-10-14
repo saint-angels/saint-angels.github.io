@@ -1,9 +1,16 @@
 main:
 - name: Home
   title: Home
-  url: /index.html
-  description: desc 1
-- name: Games
-  title: Games
-  description: desc 2
-  url: /games.html
+  url: /index
+- name: Personal Games
+  title: Personal Games
+  url: /games
+- name: Commercial Projects
+  title: Commercial Projects
+  url: /commercial_projects
+- name: Media Art
+  title: Media Art
+  url: /media_art
+- name: Bio
+  title: Bio
+  url: /bio

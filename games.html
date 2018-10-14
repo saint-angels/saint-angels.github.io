@@ -1,0 +1,17 @@
+---
+layout: single
+title: Personal Games
+images_size: 200
+---
+{% assign sorted_games = site.games | sort: 'date' | reverse %}
+{% for game in sorted_games %}
+	<div style="display: inline-block; width={{ page.images_size }} height={{ page.images_size }}">
+		<a href="{{ game.url }}" title="{{ game.title }}">
+		<img src="/assets/images/personal_games/{{ game.small_image }}" alt="{{ game.title }}" width={{ page.images_size }} height={{ page.images_size }}>
+		</a>
+			<a href="{{ game.url }}" title="{{ game.title }}">
+				<h4 style="max-width: {{images_size}}px">{{ game.title }}</h4>
+			</a>
+		
+	</div>
+{% endfor %}

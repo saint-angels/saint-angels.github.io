@@ -294,3 +294,10 @@ defaults:
       comments:  false
       share: true
       related: false
+collections:
+  games:
+    output: true
+  commercial_projects:
+    output: true
+  media_art:
+    output: true

@@ -1,4 +1,5 @@
 ---
+show_footer: false
 ---
 
 <!doctype html>
@@ -23,6 +24,7 @@
       {{ content }}
     </div>
 
+{% if show_footer == true %}
     {% if site.search == true %}
       <div class="search-content">
         {% include search/search_form.html %}
@@ -35,6 +37,7 @@
         {% include footer.html %}
       </footer>
     </div>
+{% endif %}
 
     {% include scripts.html %}
 

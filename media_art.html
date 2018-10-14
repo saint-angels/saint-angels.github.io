@@ -1,0 +1,17 @@
+---
+layout: single
+title: Media Art
+images_size: 200
+---
+{% assign sorted_art = site.media_art | sort: 'date' | reverse %}
+{% for game in sorted_art %}
+	<div style="display: inline-block; width={{ page.images_size }} height={{ page.images_size }}">
+		<a href="{{ game.url }}" title="{{ game.title }}">
+		<img src="/assets/images/media_art/{{ game.small_image }}" alt="{{ game.title }}" width={{ page.images_size }} height={{ page.images_size }}>
+		</a>
+			<a href="{{ game.url }}" title="{{ game.title }}">
+				<h4 style="max-width: {{images_size}}px">{{ game.title }}</h4>
+			</a>
+		
+	</div>
+{% endfor %}

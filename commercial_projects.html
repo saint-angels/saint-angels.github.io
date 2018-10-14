@@ -1,0 +1,17 @@
+---
+layout: single
+title: Commercial Projects
+images_size: 200
+---
+{% assign sorted_projects = site.commercial_projects | sort: 'date' | reverse %}
+{% for game in sorted_projects %}
+	<div style="display: inline-block;">
+		<a href="{{ game.url }}" title="{{ game.title }}">
+		<img src="/assets/images/commercial_projects/{{ game.small_image }}" alt="{{ game.title }}" width={{ page.images_size }} height={{ page.images_size }}>
+		</a>
+			<a href="{{ game.url }}" title="{{ game.title }}">
+				<h3>{{ game.title }}</h3>
+			</a>
+		
+	</div>
+{% endfor %}
