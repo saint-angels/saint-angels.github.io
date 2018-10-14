@@ -1,0 +1,5 @@
+main:
+- name: Home
+  url: /index.html
+- name: Games
+  url: /games.html

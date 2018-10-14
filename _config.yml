@@ -12,14 +12,14 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default" "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "default" "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Michael Prokofyev"
 title_separator          : "-"
 name                     : "Michael Prokofyev"
-description              : "Michael Prokofyev"
+description              : "Digital portfolio of Michael Prokofyev"
 url                      : "https://michaelprokofyev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MichaelProkofyev/MichaelProkofyev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
