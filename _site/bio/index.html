@@ -1,3 +1,67 @@
+<link rel="stylesheet" href="/assets/css/user.css">
+ <style type="text/css">
+    body {
+        /*background-color: #242424*/
+    }
+
+    .user_page {
+        color: #cccccc
+    }
+
+    .user_page hr {
+        background-color: #4a4a4a
+    }
+
+    .user_page .user_links .svgicon {
+        fill: #cccccc
+    }
+
+    .user_page a,
+    .footer a {
+        color: #4ab6dd
+    }
+
+    .game_column,
+    .footer,
+    .purchased_games,
+    .collection_row {
+        border-color: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .game_thumb {
+        box-shadow: 0 0 0 2px #242424, 0 0 0 4px rgba(74, 74, 74, 0.5)
+    }
+
+    .game_grid_widget .game_cell .game_title a.title {
+        color: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .web_flag {
+        color: #cccccc;
+        background: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .game_text {
+        color: rgba(204, 204, 204, 0.75)
+    }
+
+    .game_grid_widget .game_cell .game_platform,
+    .game_grid_widget .game_cell .game_genre {
+        color: #4a4a4a
+    }
+    </style>
+    <style type="text/css">
+    .mode_grid .user_game_grid .game_cell .game_thumb {
+        width: 291px;
+        height: 231px;
+    }
+
+    .mode_grid .user_game_grid .game_cell {
+        width: 291px;
+    }
+    </style>
+
+
 <!doctype html>
 <!--
   Minimal Mistakes Jekyll Theme 4.13.0 by Michael Rose
@@ -93,6 +157,14 @@
 <![endif]-->
 
 
+  
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  
+    
+    <script src="/assets/js/jquery.fittext.js"></script>
+  
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -112,30 +184,37 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="/">Michael Prokofyev</a>
-        <ul class="visible-links"><li class="masthead__menu-item">
+        <ul class="visible-links">
+          
+          <li class="masthead__menu-item">
               <a 
               href="/index"
+              
               
               >Home</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/games"
               
+              
               >Personal Games</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/commercial_projects"
+              
               
               >Commercial Projects</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/media_art"
               
+              
               >Media Art</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/bio"
               
+              style="background-color: #454545; color:#cccccc;"
               >Bio</a>
             </li></ul>
         

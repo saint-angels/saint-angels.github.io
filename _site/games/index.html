@@ -1,3 +1,67 @@
+<link rel="stylesheet" href="/assets/css/user.css">
+ <style type="text/css">
+    body {
+        /*background-color: #242424*/
+    }
+
+    .user_page {
+        color: #cccccc
+    }
+
+    .user_page hr {
+        background-color: #4a4a4a
+    }
+
+    .user_page .user_links .svgicon {
+        fill: #cccccc
+    }
+
+    .user_page a,
+    .footer a {
+        color: #4ab6dd
+    }
+
+    .game_column,
+    .footer,
+    .purchased_games,
+    .collection_row {
+        border-color: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .game_thumb {
+        box-shadow: 0 0 0 2px #242424, 0 0 0 4px rgba(74, 74, 74, 0.5)
+    }
+
+    .game_grid_widget .game_cell .game_title a.title {
+        color: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .web_flag {
+        color: #cccccc;
+        background: #4a4a4a
+    }
+
+    .game_grid_widget .game_cell .game_text {
+        color: rgba(204, 204, 204, 0.75)
+    }
+
+    .game_grid_widget .game_cell .game_platform,
+    .game_grid_widget .game_cell .game_genre {
+        color: #4a4a4a
+    }
+    </style>
+    <style type="text/css">
+    .mode_grid .user_game_grid .game_cell .game_thumb {
+        width: 291px;
+        height: 231px;
+    }
+
+    .mode_grid .user_game_grid .game_cell {
+        width: 291px;
+    }
+    </style>
+
+
 <!doctype html>
 <!--
   Minimal Mistakes Jekyll Theme 4.13.0 by Michael Rose
@@ -9,7 +73,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Personal Games - Michael Prokofyev</title>
+<!-- begin _includes/seo.html --><title>Michael Prokofyev</title>
 <meta name="description" content="Digital portfolio of Michael Prokofyev">
 
 
@@ -17,7 +81,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Michael Prokofyev">
-<meta property="og:title" content="Personal Games">
+<meta property="og:title" content="Michael Prokofyev">
 <meta property="og:url" content="http://localhost:4000/games/">
 
 
@@ -93,6 +157,14 @@
 <![endif]-->
 
 
+  
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  
+    
+    <script src="/assets/js/jquery.fittext.js"></script>
+  
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -101,7 +173,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--projects_archive">
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -112,29 +184,36 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="/">Michael Prokofyev</a>
-        <ul class="visible-links"><li class="masthead__menu-item">
+        <ul class="visible-links">
+          
+          <li class="masthead__menu-item">
               <a 
               href="/index"
+              
               
               >Home</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/games"
               
+              style="background-color: #454545; color:#cccccc;"
               >Personal Games</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/commercial_projects"
+              
               
               >Commercial Projects</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/media_art"
               
+              
               >Media Art</a>
             </li><li class="masthead__menu-item">
               <a 
               href="/bio"
+              
               
               >Bio</a>
             </li></ul>
@@ -159,7 +238,7 @@
   
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Personal Games">
+    
     
     
     
@@ -167,96 +246,110 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Personal Games
-</h1>
+          
           
         </header>
       
 
       <section class="page__content" itemprop="text">
         
-        
+        <div class="user_page_wrap">
+    <div id="user_page_17774" class="user_page page_widget mode_grid">
+        <div class="header">
+            <div class="inner_column">
+                <div class="columns">
+                    <div class="column game_column">
+                        <div class="game_grid_widget user_game_grid">
+                            
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Gotta_light/" title="Gotta light?">
-		<img src="/assets/images/personal_games/gotta_light_small.png" alt="Gotta light?" width=200 height=200>
-		</a>
-			<a href="/games/Gotta_light/" title="Gotta light?">
-				<h4 style="max-width: px">Gotta light?</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Gotta_light/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/gotta_light_small.png)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Gotta_light/" data-label="game:286621:title" data-action="game_grid">Gotta light?</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Muscle%20Mass/" title="Muscle Mass">
-		<img src="/assets/images/personal_games/muscle_mass_small.png" alt="Muscle Mass" width=200 height=200>
-		</a>
-			<a href="/games/Muscle%20Mass/" title="Muscle Mass">
-				<h4 style="max-width: px">Muscle Mass</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Muscle%20Mass/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/muscle_mass_small.png)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Muscle%20Mass/" data-label="game:286621:title" data-action="game_grid">Muscle Mass</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/tower_of_nam/" title="Tower Of Nam">
-		<img src="/assets/images/personal_games/tower_of_nam_small.png" alt="Tower Of Nam" width=200 height=200>
-		</a>
-			<a href="/games/tower_of_nam/" title="Tower Of Nam">
-				<h4 style="max-width: px">Tower Of Nam</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/tower_of_nam/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/tower_of_nam_small.png)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/tower_of_nam/" data-label="game:286621:title" data-action="game_grid">Tower Of Nam</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Unbelievable%20Deals%20Of%20Loving/" title="Unbelievable Deals Of Loving">
-		<img src="/assets/images/personal_games/unbelievable_deals_of_loving_small.png" alt="Unbelievable Deals Of Loving" width=200 height=200>
-		</a>
-			<a href="/games/Unbelievable%20Deals%20Of%20Loving/" title="Unbelievable Deals Of Loving">
-				<h4 style="max-width: px">Unbelievable Deals Of Loving</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Unbelievable%20Deals%20Of%20Loving/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/unbelievable_deals_of_loving_small.png)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Unbelievable%20Deals%20Of%20Loving/" data-label="game:286621:title" data-action="game_grid">Unbelievable Deals Of Loving</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Hey/" title="Hey">
-		<img src="/assets/images/personal_games/hey_small.jpg" alt="Hey" width=200 height=200>
-		</a>
-			<a href="/games/Hey/" title="Hey">
-				<h4 style="max-width: px">Hey</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Hey/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/hey_small.jpg)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Hey/" data-label="game:286621:title" data-action="game_grid">Hey</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Rebel%20Dancer/" title="Rebel Dancer">
-		<img src="/assets/images/personal_games/rebel_dancer_small.jpg" alt="Rebel Dancer" width=200 height=200>
-		</a>
-			<a href="/games/Rebel%20Dancer/" title="Rebel Dancer">
-				<h4 style="max-width: px">Rebel Dancer</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Rebel%20Dancer/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/rebel_dancer_small.jpg)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Rebel%20Dancer/" data-label="game:286621:title" data-action="game_grid">Rebel Dancer</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/The%20Man%20Who%20Fears/" title="The Man Who Fears">
-		<img src="/assets/images/personal_games/man_who_fears_small.jpg" alt="The Man Who Fears" width=200 height=200>
-		</a>
-			<a href="/games/The%20Man%20Who%20Fears/" title="The Man Who Fears">
-				<h4 style="max-width: px">The Man Who Fears</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/The%20Man%20Who%20Fears/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/man_who_fears_small.jpg)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/The%20Man%20Who%20Fears/" data-label="game:286621:title" data-action="game_grid">The Man Who Fears</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
-	<div style="display: inline-block; width=200 height=200">
-		<a href="/games/Shotgun%20Breeze/" title="Shotgun Breeze">
-		<img src="/assets/images/personal_games/shotgun_breeze_small.jpg" alt="Shotgun Breeze" width=200 height=200>
-		</a>
-			<a href="/games/Shotgun%20Breeze/" title="Shotgun Breeze">
-				<h4 style="max-width: px">Shotgun Breeze</h4>
-			</a>
-		
+	<div class="game_cell has_cover" data-game_id="286621"><a tabindex="-1" class="thumb_link game_link" href="/games/Shotgun%20Breeze/" data-label="game:286621:thumb" data-action="game_grid">
+    	<div class="game_thumb" style="background-image: url(/assets/images/personal_games/shotgun_breeze_small.jpg)"></div></a>
+        <div class="game_cell_data">
+            <div class="game_title"><a class="title game_link" href="/games/Shotgun%20Breeze/" data-label="game:286621:title" data-action="game_grid">Shotgun Breeze</a></div>
+            <!-- <div class="game_author"><a href="https://saint-angels.itch.io/" data-label="user:98833" data-action="game_grid">saint_angels</a></div> -->
+            <!-- <div class="game_genre">Interactive Fiction</div> -->
+            <!-- <div class="game_platform"><span class="web_flag">Play in browser</span></div> -->
+        </div>
 	</div>
 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
         
       </section>
 
