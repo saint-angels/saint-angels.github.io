@@ -1,10 +1,9 @@
 ---
 layout: media_art
 title: Art installation for GAMMA festival
-small_image: gotta_light_small.png
-big_image: gotta_light_large.png
+small_image: gamma_2018.jpg
+big_image: gamma_2018.jpg
 link: http://gammafestival.ru/
+date: 2018-07-01
 ---
-Jul 2018 – Jul 2018
-Created with Unity3D from scratch for "MiniLD 65" game jam in 72 hours.
-Participated in creation as a programmer and a designer.
+Designed interactions, integrated multiple analog & digital systems, optimized liquid simulation.

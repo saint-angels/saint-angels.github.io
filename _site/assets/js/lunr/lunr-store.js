@@ -70,7 +70,7 @@ var store = [{
         "url": "http://localhost:4000/games/Gotta_light/",
         "teaser":null},{
         "title": "Art installation for GAMMA festival",
-        "excerpt":"Jul 2018 – Jul 2018Created with Unity3D from scratch for “MiniLD 65” game jam in 72 hours.Participated in creation as a programmer and a designer. ","categories": [],
+        "excerpt":"Designed interactions, integrated multiple analog &amp; digital systems, optimized liquid simulation. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/media_art/gamma_2018/",
         "teaser":null},]
