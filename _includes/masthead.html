@@ -4,8 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <ul class="visible-links">
-          {% assign current_url_len = page.url | size | minus: 1 %}
-          {% assign page_link = page.url | slice: 0,current_url_len %}
+          {%- if page.url.size < 2 -%}
+            {% assign page_link = page.url %}
+          {%- else -%}
+            {% assign current_url_len = page.url | size | minus: 1 %}
+            {% assign page_link = page.url | slice: 0,current_url_len %}
+          {%- endif -%}
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
               {%- assign url = link.url -%}

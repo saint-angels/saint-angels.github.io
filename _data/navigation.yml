@@ -1,7 +1,7 @@
 main:
 - name: Home
   title: Home
-  url: /index
+  url: /
 - name: Personal Games
   title: Personal Games
   url: /games
