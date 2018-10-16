@@ -6,5 +6,7 @@ big_image: escape_room_vr.gif
 link: 
 date: 2017-03-01
 ---
-Oct 2016 – Mar 2017
+A HTC-Vive game, created as part of an escape-room experience in Saint-Petersburg.
+VR space was precisely mapped to the geometry of a real room, making every virtual object feel much more tangible.
+
 Coded game logic, designed interactions, managed a remote 3D artist.

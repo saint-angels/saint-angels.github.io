@@ -7,4 +7,5 @@ link: http://store.steampowered.com/app/441870/
 date: 2016-02-01
 ---
 <!-- Feb 2016 – May 2016 -->
-Endless retro/synth-wave driver, created with Unity3D. Participated as a programmer.
+Endless synth-wave racing game, released on Steam in 2016.
+Participated as as Unity developer, coding gameplay logic.

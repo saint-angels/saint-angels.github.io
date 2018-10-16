@@ -5,12 +5,12 @@ var store = [{
         "url": "http://localhost:4000/commercial_projects/tochka/",
         "teaser":null},{
         "title": "Outdrive",
-        "excerpt":"Endless retro/synth-wave driver, created with Unity3D. Participated as a programmer. ","categories": [],
+        "excerpt":"Endless synth-wave racing game, released on Steam in 2016.Participated as as Unity developer, coding gameplay logic. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/outdrive/",
         "teaser":null},{
         "title": "Roundle",
-        "excerpt":"A 2D mobile time killer, created with Unity3D. Participated as a programmer and a game designer. Released on AppStore and GooglePlay. ","categories": [],
+        "excerpt":"A 2D mobile time killer, created with Unity3D.Coded the whole thing by myself &amp; designed difficulty progression.The game was released on the AppStore and GooglePlay. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/roundle/",
         "teaser":null},{
@@ -20,12 +20,12 @@ var store = [{
         "url": "http://localhost:4000/commercial_projects/my_street_2016/",
         "teaser":null},{
         "title": "Monastery Photogrammetry",
-        "excerpt":"Participated as a sole Unity3D developer and managed multiple remote 3D artists. ","categories": [],
+        "excerpt":"Photogrammetry project of SpheraVR studio, that I’ve been involved with. We’ve spent the whole night locked in a local, Saint-Petersburg monastery with several photographers, shooting every inch of the huge, two-storied space.After that, we’ve embarked on a months-long journey of generating hi-poly meshes, cleaning them &amp; assembling into a coherent...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/church_photogrammetry/",
         "teaser":null},{
         "title": "HTC Vive VR game for an escape-room.",
-        "excerpt":"Oct 2016 – Mar 2017Coded game logic, designed interactions, managed a remote 3D artist. ","categories": [],
+        "excerpt":"A HTC-Vive game, created as part of an escape-room experience in Saint-Petersburg.VR space was precisely mapped to the geometry of a real room, making every virtual object feel much more tangible. Coded game logic, designed interactions, managed a remote 3D artist. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/escape_room_vr/",
         "teaser":null},{
@@ -60,7 +60,7 @@ var store = [{
         "url": "http://localhost:4000/games/tower_of_nam/",
         "teaser":null},{
         "title": "Muscle Mass",
-        "excerpt":"Small Flickgame about a man who was fond of iron. ","categories": [],
+        "excerpt":"Small Flickgame about a man who was fond of iron. Created in several evenings of rigorous drawing and redrawing of frames. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/games/Muscle%20Mass/",
         "teaser":null},{
