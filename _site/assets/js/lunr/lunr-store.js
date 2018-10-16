@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/commercial_projects/my_street_2016/",
         "teaser":null},{
         "title": "Monastery Photogrammetry",
-        "excerpt":"Photogrammetry project of SpheraVR studio, that I’ve been involved with. We’ve spent the whole night locked in a local, Saint-Petersburg monastery with several photographers, shooting every inch of the huge, two-storied space.After that, we’ve embarked on a months-long journey of generating hi-poly meshes, cleaning them &amp; assembling into a coherent...","categories": [],
+        "excerpt":"SpheraVR studio photogrammetry project, that I’ve been involved with. We’ve spent the whole night locked in a local, Saint-Petersburg monastery with several photographers, shooting every inch of the huge, two-storied space.After that, we’ve embarked on a months-long journey of generating hi-poly meshes, cleaning them &amp; assembling into a coherent virtual...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/church_photogrammetry/",
         "teaser":null},{
