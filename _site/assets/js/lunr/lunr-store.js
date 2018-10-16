@@ -25,7 +25,7 @@ var store = [{
         "url": "http://localhost:4000/commercial_projects/church_photogrammetry/",
         "teaser":null},{
         "title": "HTC Vive VR game for an escape-room.",
-        "excerpt":"A HTC-Vive game, created as part of an escape-room experience in Saint-Petersburg.VR space was precisely mapped to the geometry of a real room, making every virtual object feel much more tangible. Coded game logic, designed interactions, managed a remote 3D artist. ","categories": [],
+        "excerpt":"A VR game for HTC-Vive, created as part of an escape-room experience in Saint-Petersburg.VR space was precisely mapped to the geometry of a real room, making every virtual object feel tangible. Coded game logic, designed interactions, managed a remote 3D artist. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/commercial_projects/escape_room_vr/",
         "teaser":null},{
