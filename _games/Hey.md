@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Hey
 small_image: hey_small.jpg
 big_image: hey_large.jpg

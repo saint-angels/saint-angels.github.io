@@ -1,5 +1,4 @@
 ---
-layout: game
 title: The Man Who Fears
 small_image: man_who_fears_small.jpg
 big_image: man_who_fears_large.jpg

@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Shotgun Breeze
 small_image: shotgun_breeze_small.jpg
 big_image: shotgun_breeze_small.jpg

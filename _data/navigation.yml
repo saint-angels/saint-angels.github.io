@@ -1,13 +1,8 @@
-main:
 - name: Home
-  title: Home
-  url: /
-- name: Personal Games
-  title: Personal Games
-  url: /games
-- name: Commercial Projects
-  title: Commercial Projects
-  url: /commercial_projects
-- name: Media Art
-  title: Media Art
-  url: /media_art
+  link: /
+- name: Essays
+  link: /essays
+- name: Games
+  link: /games
+- name: About
+  link: /about

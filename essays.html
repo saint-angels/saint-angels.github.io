@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>Essays</h1>
+<ul style="list-style-type:square;">
+{% assign sorted_essays = site.essays | sort: 'date' | reverse %}
+{% for essay in sorted_essays %}
+    <li><a href="{{ essay.url }}"> {{essay.title}} </a></li>  
+{% endfor %}
+</ul>

@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Rebel Dancer
 small_image: rebel_dancer_small.jpg
 big_image: rebel_dancer_large.jpg

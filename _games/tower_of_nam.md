@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Tower Of Nam
 small_image: tower_of_nam_small.png
 big_image: tower_of_nam_large.gif

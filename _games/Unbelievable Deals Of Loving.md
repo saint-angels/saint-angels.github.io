@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Unbelievable Deals Of Loving
 small_image: unbelievable_deals_of_loving_small.png
 big_image: unbelievable_deals_of_loving_large.png

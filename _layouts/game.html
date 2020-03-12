@@ -1,18 +1,13 @@
 ---
-layout: single
+layout: default
 ---
+<!-- <h1>{{ page.title }}</h1> -->
+
 <a href="{{page.link}}">
-	<img src="/assets/images/personal_games/{{page.big_image}}" alt="{{page.title}}"style="max-height: 400px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    object-fit: contain;
-    width: 80%;">	
+	<img src="/assets/images/personal_games/{{page.big_image}}" alt="{{page.title}}" class="center-image">	
 </a>
 <header>
-          {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+    {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
 </header>
-<a href="{{page.link}}">
-	{{page.game_link}}
-</a>
+<a href="{{page.link}}">{{page.link}}</a>
 {{ content }}

@@ -1,0 +1,72 @@
+$text-color: #3F3E3D;
+$borders-color: rgba(0,0,0, .2);
+$sidenav-width: 100px;
+$link-selection-color: lightgrey;
+$background-color: rgb(240, 240, 240);
+
+* {
+    font-weight: 400;
+    letter-spacing: .5px;
+    // background-color: ;
+    font-family: 'Times New Roman', Times, serif;
+    // cursor: crosshair;
+}
+  
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    margin:0;padding:0;  
+
+}
+
+.main {
+    z-index: 1; /* Stay on top */
+    width: 600px;
+    min-height: 600px;
+    margin-right: 0px;
+    margin-left: $sidenav-width; /* Same as the width of the sidebar */
+    border:1px solid  $borders-color;
+    padding: 0 10px 0 10px;
+  }
+
+
+  .main h1 {
+    // font-family: "Courier New";
+    // border:1px solid $borders-color;
+    font-size: 42px;
+
+  }
+
+  .main p {
+    font-size: 18px;
+    // background-color:rgb(240, 240, 240);
+
+    // font-family: "Verdana";
+  }
+
+  a:hover {
+    background-color: $link-selection-color;
+  }
+
+  
+
+  .sidenav {
+    margin-top: 28px;
+    width: $sidenav-width;
+    border:1px solid $borders-color;
+    border-style: solid none solid solid;
+
+  }
+
+  .center-image {
+    margin: 0 auto;
+    display: block; 
+    max-width:100%;
+    height: 300px;
+    object-fit: scale-down;
+  }

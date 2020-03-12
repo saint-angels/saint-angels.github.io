@@ -1,5 +1,14 @@
 ---
-layout: single
-title: Home
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: index
+image: profile_picture.jpg
+
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+![photo](/assets/images/{{page.image}}){: .center-image }
+
+About
+===
+
+Michael Prokofyev is a programmer, a game designer and a media artist from Saint-Petersburg.

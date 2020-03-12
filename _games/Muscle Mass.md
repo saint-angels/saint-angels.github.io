@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Muscle Mass
 small_image: muscle_mass_small.png
 big_image: muscle_mass_small.png

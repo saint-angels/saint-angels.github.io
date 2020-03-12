@@ -1,109 +1,14 @@
----
-show_footer: false
----
-
-<link rel="stylesheet" href="/assets/css/user.css">
- <style type="text/css">
-    body {
-        /*background-color: #242424*/
-    }
-
-    .user_page {
-        color: #cccccc
-    }
-
-    .user_page hr {
-        background-color: #4a4a4a
-    }
-
-    .user_page .user_links .svgicon {
-        fill: #cccccc
-    }
-
-    .user_page a,
-    .footer a {
-        color: #4ab6dd
-    }
-
-    .game_column,
-    .footer,
-    .purchased_games,
-    .collection_row {
-        border-color: #4a4a4a
-    }
-
-    .game_grid_widget .game_cell .game_thumb {
-        box-shadow: 0 0 0 2px #242424, 0 0 0 4px rgba(74, 74, 74, 0.5)
-    }
-
-    .game_grid_widget .game_cell .game_title a.title {
-        color: #4a4a4a
-    }
-
-    .game_grid_widget .game_cell .web_flag {
-        color: #cccccc;
-        background: #4a4a4a
-    }
-
-    .game_grid_widget .game_cell .game_text {
-        color: rgba(204, 204, 204, 0.75)
-    }
-
-    .game_grid_widget .game_cell .game_platform,
-    .game_grid_widget .game_cell .game_genre {
-        color: #4a4a4a
-    }
-    </style>
-    <style type="text/css">
-    .mode_grid .user_game_grid .game_cell .game_thumb {
-        width: 291px;
-        height: 231px;
-    }
-
-    .mode_grid .user_game_grid .game_cell {
-        width: 291px;
-    }
-    </style>
-
-
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.13.0 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
--->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+<html>
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
   </head>
-
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div class="initial-content">
-      {{ content }}
-    </div>
-
-{% if show_footer == true %}
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include search/search_form.html %}
-      </div>
-    {% endif %}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-{% endif %}
-
-    {% include scripts.html %}
-
+  <body>
+    {% include navigation.html %}
+    <div class="main">{{ content }}</div>
   </body>
 </html>

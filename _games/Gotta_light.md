@@ -1,5 +1,4 @@
 ---
-layout: game
 title: Gotta light?
 small_image: gotta_light_small.png
 big_image: gotta_light_large.png

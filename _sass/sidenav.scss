@@ -1,0 +1,41 @@
+/* The sidebar menu */
+.sidenav {
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    // padding-left: 5px;
+
+
+    display:inline-block;
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    font-family: "Tahoma";
+    padding: 6px 0px 6px 5px;
+    // text-decoration: none;
+    font-size: 1em;
+    display: block;
+    color: blue;
+    text-transform: lowercase;
+
+    
+  }
+
+  
+
+  // .sidenav .current_nav_link {
+  //   // color: purple;
+  //   font-weight: bold;    
+  // }
+
+
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  
