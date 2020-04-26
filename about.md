@@ -11,4 +11,6 @@ image: profile_picture.jpg
 About
 ===
 
-Michael Prokofyev is a programmer, a game designer and a media artist from Saint-Petersburg.
+yes.
+
+[twitter](https://twitter.com/addict_yes)

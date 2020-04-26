@@ -7,7 +7,7 @@ image: home_2.png
 ---
 ![photo](/assets/images/{{page.image}}){: .center-image }
 
-Michael Prokofyev web
+Michael Prokofyev
 ===
 
 Hello.
