@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-image: home_background.jpg
+image: home_2.png
 ---
 ![photo](/assets/images/{{page.image}}){: .center-image }
 
