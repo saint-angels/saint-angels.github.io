@@ -5,9 +5,8 @@ $link-selection-color: lightgrey;
 $background-color: rgb(240, 240, 240);
 
 * {
-    font-weight: 400;
     // background-color: ;
-    font-family: Helvetica, sans-serif;
+    // font-family: Helvetica, sans-serif;
     cursor: crosshair;
 }
   
@@ -33,6 +32,7 @@ body {
     margin-left: $sidenav-width; /* Same as the width of the sidebar */
     border:1px solid  $borders-color;
     padding: 0 10px 0 10px;
+    font-family: "Verdana";
   }
 
 
@@ -41,13 +41,8 @@ body {
     // font-family: "Courier New";
     // border:1px solid $borders-color;
     font-size: 42px;
+    font-weight: 400;
 
-  }
-
-  .main p {
-        // background-color:rgb(240, 240, 240);
-
-    font-family: "Verdana";
   }
 
   a:hover {

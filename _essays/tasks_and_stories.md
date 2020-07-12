@@ -1,6 +1,7 @@
 ---
 title: Tasks and Stories 
 date: 2020-05-31
+draft_readers: Leo AutoService
 ---
 By thinking about tasks, we automatically create stories about them. When planning to cook, we imagine the components, the efforts, the look and taste of the final dish. A set of events with emotional peaks and valleys. A story.
 Unconsciously, by default, we feel that the more exciting a story is, the more important its task.

@@ -3,12 +3,13 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
-<!-- <p>
-  {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
-  {% endif %}
-</p> -->
+<p>
+  {{ page.date | date: "%B %Y" }}
+</p>
 
 {{ content }}
+{% if page.draft_readers %}
+<div>
+  <b>Thanks</b> to  {{ page.draft_readers }} for reading drafts of this.
+</div>
+{% endif %}
