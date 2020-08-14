@@ -23,8 +23,8 @@ locale : "en-US"
 email: mikeprokofyev@gmail.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url : "https://michaelprokofyev.github.io"
-twitter_username: KingScientistV
+url : "https://withteeth.fun"
+twitter_username: queen_dhl
 github_username:  saint-angels
 
 # Build settings
@@ -39,6 +39,8 @@ collections:
     output: true
   games:
     output: true
+  privacy_policies:
+    output: true
 
 
 defaults:
@@ -52,6 +54,11 @@ defaults:
       type: "games"
     values:
       layout: "game"
+  - scope:
+      path: ""
+      type: "privacy_policies"
+    values:
+      layout: ""
   - scope:
       path: ""
     values:
