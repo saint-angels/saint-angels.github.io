@@ -4,10 +4,11 @@
 
 layout: index
 image: home_2.png
+twitter_link: twitter.com/{{ site.twitter_username  }}
 ---
 ![photo](/assets/images/{{page.image}}){: .center-image }
-
-Michael Prokofyev
-===
+<!-- ###{{site.username }} -->
 
 Hello.
+
+[https://twitter.com/{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})
