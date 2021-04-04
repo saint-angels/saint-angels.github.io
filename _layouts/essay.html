@@ -13,6 +13,8 @@ layout: default
   <b>Thanks</b> to  {{ page.draft_readers }} for reading drafts of this.
 </div>
 {% endif %}
+{% if page.time_logged %}
 <a id="logged">
-    writing {% if page.time_logged %}took {{ page.time_logged }}{% endif %}
+    Time {% if page.time_logged %} logged: {{ page.time_logged }}{% endif %}
 </a>
+{% endif %}
