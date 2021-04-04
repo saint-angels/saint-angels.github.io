@@ -2,6 +2,7 @@
 layout: default
 ---
 <h1>Games</h1>
+<a href="/feed/games.xml">RSS</a>
 <ul style="list-style-type:square;">
 {% assign sorted_games = site.games | sort: 'date' | reverse %}
 {% for game in sorted_games %}

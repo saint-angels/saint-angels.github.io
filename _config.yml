@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+title: withteeth.fun
 username: teeth2i4
 locale : "en-US"
 email: mikeprokofyev@gmail.com
-description: 
+description: sinking my teeth into
 baseurl: "" # the subpath of your site, e.g. /blog
 url : "https://withteeth.fun"
 twitter_username: teeth2i4 
@@ -41,7 +42,6 @@ collections:
     output: true
   privacy_policies:
     output: true
-
 
 defaults:
   - scope:
@@ -64,6 +64,12 @@ defaults:
     values:
       layout: "default"
 
+feed:
+  excerpt_only: true
+  posts_limit: 10
+  collections:
+    - essays
+    - games
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
