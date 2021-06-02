@@ -12,7 +12,7 @@ But there is a cost to discomfort. It demands attention, which is a finite resou
 
 While many comfortable activities(especially if done on autopilot) are cheap attention-wise, they still take time and energy. To completely remove this overhead, making activity more comfortable won't help. In a sense, the most efficient way of doing something, is not doing it at all.
 
-Optimizations like these can suck all the fun out of life, so don't forget having fun. But it's something you can keep an eye on, when changing jobs, tools, spaces, people you hang out with.
+Optimizations like these can suck all the fun out of life, so don't forget to have fun. But comfort/discomfort is something you can keep an eye on, when changing tools, jobs, homes, operating systems, cola flavours and sleep schedules.
 
 [^1]: Results are especially unlikely, if you are have no way to exploit this uncomfortable space, or just don't put in the effort.
 [^2]: While attention cost of discomfort is huge, discomfort doesn't imply suffering. You can be uncomfortable and joyous at the same time. As David Lynch said: ["chicks dig melancholy, but you don't need to suffer"](https://www.youtube.com/watch?v=h8RuLM9LrBs){:target="_blank"}

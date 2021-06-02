@@ -4,11 +4,9 @@
 
 layout: index
 image: home_2.png
-twitter_link: twitter.com/{{ site.twitter_username  }}
 ---
 ![photo](/assets/images/{{page.image}}){: .center-image }
 <!-- ###{{site.username }} -->
 
 Hello.
 
-[https://twitter.com/{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})
