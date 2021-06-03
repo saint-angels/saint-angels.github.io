@@ -8,5 +8,5 @@ image: home_2.png
 ![photo](/assets/images/{{page.image}}){: .center-image }
 <!-- ###{{site.username }} -->
 
-Hello.
-
+Hello!
+I write essays to think.
