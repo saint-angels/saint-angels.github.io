@@ -23,10 +23,6 @@ Personally, party's redeeming point was a bunch of non-russians, with moustaches
 Saw a charming place which was selling Turkish style baked potatoes.
 At 12am customers receiving steaming hot, belly open potatoe full of stuff seemed magical, how did I convice myself to not buy one?
 ## Day 7.  12.03.2022
-I've been relying on Starbucks for a workplace a lot, which feels like a crutch in the land of million local coffee caves.
+I've been relying on Starbucks for a workplace a lot, which feels like a familliar western crutch in the land of million local coffee caves.
 
-
-
-
-
-
+Picked a burger joint because they were blasing remixes of Eminem's old classics, and their competitor across the street didn't.
