@@ -1,5 +1,5 @@
 ---
-title: expat diary.
+title: running log
 date: 2022-03-07
 draft_readers: 
 ---
