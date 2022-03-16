@@ -23,6 +23,34 @@ Personally, party's redeeming point was a bunch of non-russians, with moustaches
 Saw a charming place which was selling Turkish style baked potatoes.
 At 12am customers receiving steaming hot, belly open potatoe full of stuff seemed magical, how did I convice myself to not buy one?
 ## Day 7.  12.03.2022
-I've been relying on Starbucks as a workplace a lot, which feels like a familliar western crutch in the land of million local coffee caves.
+Today I'm relying on Starbucks as a workplace, which feels like a familliar western crutch in the land of million local coffee caves.
 
 Picked a burger joint because they were blasing remixes of Eminem's old classics, and their competitor across the street didn't.
+
+Caught a moment where it felt like the whole world is against me. 
+Everyone I wrote to, didn't respond to my messages, and I was imagining the absolute worst in others. Then suddenly, I got a barrage of enthusiastic, warm replies.
+Why it's so easy to start expecting the worst in people?
+
+On the way back home, I hear a loud crack in the distance. Is today a holiday? Haven't seen any fireworks here yet. 
+A minute later, a guy stops me in Turkish and then in English, saying I shouldn't go forward, as he saw someone running with a gun. 
+A black mass of 20-30 people are moving erraticaly on a small basketball court in the park on my way.
+
+it's still snowing, a few strangers, engaged in snowball fights, have thrown snowballs in my direction. In Russia it would feel rather hostile, but not here.
+Our neighborhood has a lot of kids riding the slopes on plastic bags. That looks so joyous, that I join them, go too fast, fumble, crash into a sidewalk stairs and roll on the slope, hitting a few bones painfully enough, to start using smaller slopes.
+I don't remember seeing whole neighborhoods participating in such snow galore. A christmas spirit.
+
+## Day 8.  13.03.2022
+
+A friend invited me to a local Soho House for breakfast.
+In there, three French speakers(fluently conversing in English for my sake) casually trashed English language,
+noting how it's lacking beauty, elegance, or anything really.
+
+Caught a cold. Allowing myself to rest instead of constantly stressing about rent and banks and jobs.
+
+## Day 9.  14.03.2022
+
+Had change one home for another friend's home. Found a nice Lebanese restaurant. Sleeping on a sofa.
+
+## Day 10.  15.03.2022
+
+Making chinese style congee. Flatmates liked it so much, we've finished pot in one go.
