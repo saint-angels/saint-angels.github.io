@@ -49,8 +49,16 @@ Caught a cold. Allowing myself to rest instead of constantly stressing about ren
 
 ## Day 9.  14.03.2022
 
-Had to leave last home for another one. More students, more foreign accents. Found a nice Lebanese restaurant. Sleeping on a sofa.
+Had to leave last home for another one. More students, more foreign accents. Found a nice Lebanese restaurant. 
+Sleeping on a sofa.
 
 ## Day 10.  15.03.2022
 
-Making chinese style congee. Flatmates liked it so much, we've finished pot in one go.
+Making chinese style congee. Flatmates liked it so much, they've finished the pot in one go, and gave me a questionable nickname. "A christmas miracle"
+
+## Day 11.  16.03.2022
+
+Went to grand bazaar. Beautiful architecture filled to the brim with souvenirs and cracking GUCCI letters, stretched by millions of shirts.
+
+<!-- ## Day 12.  17.03.2022 -->
+
