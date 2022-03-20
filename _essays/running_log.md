@@ -100,4 +100,4 @@ During these brief moments, they are talking to you in their native tongue, and 
 
 Terraformers switched AirBnb apartments and brought me along.
 Entrance is through a cheap leather bags shop, located on a busy tourist street.
-Istanbul likes layers behind different layers. Like a thick doner kebab.
+This city likes layers just like it likes layers of skewered kebab.
