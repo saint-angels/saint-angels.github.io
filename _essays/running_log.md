@@ -77,17 +77,27 @@ Rave. Enjoyed mediocre music and getting sloshed.
 
 ## Day 14.  19.03.2022
 
-First time rode a tram to get to the Archaeology Museum.
+Rode a tram for the first time, to get to the Archaeology Museum.
 
 Museum of whatever is left from people long dead.
 They were rich and powerful. They were afraid to be forgotten, and spent riches to etch themselves into memories of others. 
 Now they are dust, and soon the memory will be dust as well.
-Just like for everyone else.
+Just like me, or anyone else.
 
 During this 2 weeks, meeting new people and making friends was easier than ever. 
 English language persona is well suited for that
 
 ## Day 15.  20.03.2022
 
-A rooster outside of my window, seems to announce every morning half-hour, instead of the expected sunrise moment.
-A city of angels.
+A rooster outside of my window, is announcing the passing of every half-hour, instead of the expected sunrise moment.
+
+Met with M for breakfast, I have never seen Pippi Longstocking in real life before.
+Every native language provides their own flavor of utterances.  When people speak english as a second language, they bring these utterances with them.
+During these brief moments, they are talking to you in their native tongue, and revealing something, that no English word can express.
+
+“It is no nation that we inhabit, but a language. Make no mistake; our native toungue is our true fatherland.”
+― Emil Cioran 
+
+Terraformers switched AirBnb apartments and brought me along.
+Entrance is through a cheap leather bags shop, located on a busy tourist street.
+Istanbul likes layers behind different layers. Like a thick doner kebab.
