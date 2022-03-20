@@ -54,11 +54,40 @@ Sleeping on a sofa.
 
 ## Day 10.  15.03.2022
 
-Making chinese style congee. Flatmates liked it so much, they've finished the pot in one go, and gave me a questionable nickname. "A christmas miracle"
+Making chinese style congee. Flatmates liked it so much, they've finished the pot in one go, and gave me a questionable nickname. "A christmas miracle".
 
 ## Day 11.  16.03.2022
 
-Went to grand bazaar. Beautiful architecture filled to the brim with souvenirs and cracking GUCCI letters, stretched by millions of shirts.
+The Grand Bazaar. Beautiful architecture filled to the brim with souvenirs and cracking GUCCI letters, stretched by millions of shirts.
 
-<!-- ## Day 12.  17.03.2022 -->
+## Day 12.  17.03.2022
 
+"The more productive you wanna be, the more schedule of your days should look like Groundhog Day."
+My days are almost the opposite of that.
+
+## Day 13.  18.03.2022
+
+Met a friend DV from Saint-Petersburg, on a random Istanbul alley. This city is the world, in some ways.
+
+Met another friend from Moscow, on purpose. He brought me working UnionPay cards, which has a calming effect. I haven't managed to successfully withdraw any cash from cards yet, but that seems like a minor thing.
+
+Met DV at potatoe place and discussed a few essays worth of ideas.
+
+Rave. Enjoyed mediocre music and getting sloshed.
+
+## Day 14.  19.03.2022
+
+First time rode a tram to get to the Archaeology Museum.
+
+Museum of whatever is left from people long dead.
+They were rich and powerful. They were afraid to be forgotten, and spent riches to etch themselves into memories of others. 
+Now they are dust, and soon the memory will be dust as well.
+Just like for everyone else.
+
+During this 2 weeks, meeting new people and making friends was easier than ever. 
+English language persona is well suited for that
+
+## Day 15.  20.03.2022
+
+A rooster outside of my window, seems to announce every morning half-hour, instead of the expected sunrise moment.
+A city of angels.
