@@ -111,4 +111,12 @@ Calming down and solving stuff one step at a time. I hope I'm not missing anythi
 ## 21.03-27.03 Week plan 
 Need to get a a job. Even if temporary, that would bring some peace and give more time to deal with things.
 
-<!-- ## Day 16.  21.03.2022 -->
+## Day 16.  21.03.2022
+
+A queue of people are shuffling around in front of the bank doors.
+A short woman with a complexion of a fridge, tells me something in Turkish.
+Unwilling to verbally admit no knowledge of Turkish language, I cock my head to the side. That produces a laugh.
+
+I tell a bank guard the code, and he lets us through, skipping the queue.
+I think having usefull connections, was always the most valuable thing during catastrophic events.
+
