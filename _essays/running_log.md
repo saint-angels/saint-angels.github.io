@@ -101,3 +101,14 @@ During these brief moments, they are talking to you in their native tongue, and 
 Terraformers switched AirBnb apartments and brought me along.
 Entrance is through a cheap leather bags shop, located on a busy tourist street.
 This city likes layers just like it likes layers of skewered kebab.
+
+Blockchains(and DAOs in particular) are allowing you to design, program new communities.
+Even if I don't see the immediate application, it's worth diving in, once again.
+
+
+## 14.03-20.03 Week review
+Calming down and solving stuff one step at a time. I hope I'm not missing anything cruicial and time-sensetive. 
+## 21.03-27.03 Week plan 
+Need to get a a job. Even if temporary, that would bring some peace and give more time to deal with things.
+
+<!-- ## Day 16.  21.03.2022 -->
