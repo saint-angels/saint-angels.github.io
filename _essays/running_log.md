@@ -105,7 +105,6 @@ This city likes layers just like it likes layers of skewered kebab.
 Blockchains(and DAOs in particular) are allowing you to design, program new communities.
 Even if I don't see the immediate application, it's worth diving in, once again.
 
-
 ## 14.03-20.03 Week review
 Calming down and solving stuff one step at a time. I hope I'm not missing anything cruicial and time-sensetive. 
 ## 21.03-27.03 Week plan 
@@ -117,6 +116,22 @@ A queue of people are shuffling around in front of the bank doors.
 A short woman with a complexion of a fridge, tells me something in Turkish.
 Unwilling to verbally admit no knowledge of Turkish language, I cock my head to the side. That produces a laugh.
 
-I tell a bank guard the code, and he lets us through, skipping the queue.
-I think having usefull connections, was always the most valuable thing during catastrophic events.
+I tell a bank guard the code, and he lets us through, skipping the queue. 
+There is a good chance this adventure will get us a bank account.
+ Having connections, is maybe the most valuable thing during catastrophic events.
+ 
+Arrived at a party, where I barely knew 1 out of 4 people.
+10 seconds after entering the apartment, I'm realizing that the sole goal of this event, is to get utterly wasted.
+Would school me appreciate that and stay? I didn't.
 
+## Day 17.  22.03.2022
+
+Reading "Top N essential C# Interview Questions from Big Evil" for the interivew tomorrow. 
+I don't think that can change the outcome, but it makes you feel prepared.
+
+Called B and made her realize I probably won't come back.
+There was a line in Hotline Miami: "Do you like hurting other people?".
+I don't like hurting this particular person so much, that for a minute,for the first time in a week, I consider returning.
+
+A possibility to stay in a cool place for the next week has fallen through.
+Can wait a couple days for 2 interview results until I make any moves.
