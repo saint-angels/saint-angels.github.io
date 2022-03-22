@@ -120,7 +120,7 @@ I tell a bank guard the code, and he lets us through, skipping the queue.
 There is a good chance this adventure will get us a bank account.
  Having connections, is maybe the most valuable thing during catastrophic events.
  
-Arrived at a party, where I barely knew 1 out of 4 people.
+Arrived at a party, where I barely knew 1 person, and never seen other 3.
 10 seconds after entering the apartment, I'm realizing that the sole goal of this event, is to get utterly wasted.
 Would school me appreciate that and stay? I didn't.
 
