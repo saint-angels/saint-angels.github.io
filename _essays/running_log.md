@@ -148,4 +148,14 @@ Now I'd have to start solving problems that require money.
 Anxious thoughts of these unfamiliar problems come rushing in.
 Progress should feel nice shouldn't it?
 
-V.'s birthday, Georgian restaurant, no red wine available.
+V.'s birthday, Georgian restaurant, no red wine present. Plenty of people are.
+
+## Day 19.  24.03.2022
+
+First time on a ferry across the Bosphorus strait. Get from one continent to another for the price of a bus ticket. 
+
+Can't really focus on things.
+
+## Day 20.  25.03.2022
+
+Accepted the job offer. Getting used to an unfamilliar problem of searching for long-term place to live.
