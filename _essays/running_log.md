@@ -144,8 +144,8 @@ Should this "log" have as much logging of details as possible, or be a record of
 The first option would bore me to death, fast.
 
 Got a job offer. I got used to a problem of searching for a job.
-Now I'd have to start solving prolems that require money. 
-Anxious thoughts of these unfamilliar problems come rushing in.
+Now I'd have to start solving problems that require money. 
+Anxious thoughts of these unfamiliar problems come rushing in.
 Progress should feel nice shouldn't it?
 
 V.'s birthday, Georgian restaurant, no red wine available.
