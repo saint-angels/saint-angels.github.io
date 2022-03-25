@@ -158,4 +158,4 @@ Can't really focus on things.
 
 ## Day 20.  25.03.2022
 
-Accepted the job offer. Getting used to an unfamilliar problem of searching for long-term place to live.
+Accepted the job offer. Getting used to an unfamiliar problem of searching for long-term place to live.
