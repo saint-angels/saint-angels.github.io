@@ -157,5 +157,23 @@ First time on a ferry across the Bosphorus strait. Get from one continent to ano
 Can't really focus on things.
 
 ## Day 20.  25.03.2022
+Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
 
-Accepted the job offer. Getting used to an unfamiliar problem of searching for long-term place to live.
+A networking meetup for Russian expats, is a room full of "creative class":  photographers, designers, models. One sexologist.
+People selling themselves with instagram accounts and there-should've-been-a-time-limit presentations, stretched by 5k+ lumen projector.
+Nearby model is rocking on a chair enticingly, but portfolios presented by others?
+I think I'm so sick of the russian monoculture, that all I see are spots of color. Flashes of content.
+
+I expect to find repulsive any community of Russians with more than 2 members.
+Actually a group of 2 doesn't feel neutral already.
+If I interact with people of other nationalities, I can dissolve into their cultures and don't think about mine.
+I don't feel it's the war to blame, but rather 27 years spent in the same jar. Lungs filled with pickle juice.
+
+Rooftop party with pancakes. A matress is leaning against a staircase wall, presenting a local cat on top, curled in a dream.
+This orange cream colored cat reminds me that my sleep pattern is a wreck, and I crawl to my sofa.
+
+## Day 21.  26.03.2022
+
+Spent the day locked in an apartment, searching for a rentable room on facebook groups.
+There is something pleasant in focusing yourself on one thing.
+ Won't be able to relax in this state anyway.
