@@ -187,3 +187,10 @@ Distract yourself from worrying and potential dangers.
 
 Moved most of my stuff to AI house. His apartment is inside one of many 10+ story high residential buildings.
 Lack of open space between buildings, sweating from carrying two bags up-down the hills, place reminded me the image of Brazilian favelas.
+
+## 21.03-27.03 week review
+Got a job. I hope it's a real one.
+## 28.03-03.04 week plan 
+There is a good chance I'll find an apartment to rent.
+Better start the process for residence permit in parallel, as it may take a while.
+Speed is more important than 200$.
