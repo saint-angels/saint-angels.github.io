@@ -173,6 +173,11 @@ This orange cream colored ball of fur, reminds me how wrecked my sleep pattern i
 
 ## Day 21.  26.03.2022
 
+Woke up in the middle of the night to pee. A cockroach was running around bathroom sink.
+Did it crawl out of the drain?
+I open the tap and pour water on top of it, it's light shell making it float all over the sink. 
+After a minute(?) of showering the cockroach, whirlpool forces win, and brown body is dragged in the drain.
+
 Spent the day locked in an apartment, searching for a room to rent on facebook groups.
 There is something pleasant in submitting yourself to one thing.
 Distract yourself from worrying and potential dangers.
