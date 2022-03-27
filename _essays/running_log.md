@@ -173,9 +173,12 @@ This orange cream colored ball of fur, reminds me how wrecked my sleep pattern i
 
 ## Day 21.  26.03.2022
 
-Spent the day locked in an apartment, searching for a rentable room on facebook groups.
+Spent the day locked in an apartment, searching for a room to rent on facebook groups.
 There is something pleasant in submitting yourself to one thing.
-Distract yourself from worry and potential dangers.
- Won't be able to relax in this state anyway.
+Distract yourself from worrying and potential dangers.
+ Won't be able to relax now anyway.
 
 ## Day 22.  27.03.2022
+
+Moved most of my stuff to AI house. His apartment is inside one of many 10+ story high residential buildings.
+Lack of open space between buildings, sweating from carrying two bags up-down the hills, place reminded me the image of Brazilian favelas.
