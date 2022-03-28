@@ -3,6 +3,7 @@ title: running log
 date: 2022-03-07
 draft_readers: 
 ---
+
 ## Day 5.  10.03.2022
 A group of cool students let me stay with them for a week, so I'm leaving my friendly neighborhood hostel.
 
@@ -22,6 +23,7 @@ They felt like foreigners who just happen to speak the same language.
 Personally, party's redeeming point was a bunch of non-russians, with moustaches and without. 
 Saw a charming place which was selling Turkish style baked potatoes.
 At 12am customers receiving steaming hot, belly open potatoe full of stuff seemed magical, how did I convince myself to not buy one?
+
 ## Day 7.  12.03.2022
 Today I'm relying on Starbucks as a workplace, which feels like a familiar western crutch in the land of million local coffee caves.
 
@@ -41,32 +43,26 @@ Our neighborhood has a lot of kids riding the slopes on plastic bags. That looks
 I don't remember seeing whole neighborhoods participating in such snow galore. A christmas spirit.
 
 ## Day 8.  13.03.2022
-
 A friend invited me to a local Soho House for breakfast.
 In there, three French speakers(fluently conversing in English for my sake) casually trashed English language, noting how it's lacking beauty, elegance, or anything really.
 
 Caught a cold. Allowing myself to rest instead of constantly stressing about rent and banks and jobs.
 
 ## Day 9.  14.03.2022
-
 Had to leave last home for another one. More students, more foreign accents. Found a nice Lebanese restaurant. 
 Sleeping on a sofa.
 
-## Day 10.  15.03.2022
-
+## Day 10  15.03.2022
 Making chinese style congee. Flatmates liked it so much, they've finished the pot in one go, and gave me a questionable nickname. "A christmas miracle".
 
-## Day 11.  16.03.2022
-
+## Day 11  16.03.2022
 The Grand Bazaar. Beautiful architecture filled to the brim with souvenirs and cracking GUCCI letters, stretched by millions of shirts.
 
-## Day 12.  17.03.2022
-
+## Day 12  17.03.2022
 "The more productive you wanna be, the more schedule of your days should look like Groundhog Day."
 My days are almost the opposite of that.
 
-## Day 13.  18.03.2022
-
+## Day 13  18.03.2022
 Met a friend DV from Saint-Petersburg, on a random Istanbul alley. This city is the world, in some ways.
 
 Met another friend from Moscow, on purpose. He brought me working UnionPay cards, which has a calming effect. I haven't managed to successfully withdraw any cash from cards yet, but that seems like a minor thing.
@@ -75,8 +71,7 @@ Met DV at potatoe place and discussed a few essays worth of ideas.
 
 Rave. Enjoyed mediocre music and getting sloshed.
 
-## Day 14.  19.03.2022
-
+## Day 14  19.03.2022
 Rode a tram for the first time, to get to the Archaeology Museum.
 
 Museum of whatever is left from people long dead.
@@ -87,7 +82,7 @@ Just like me, or anyone else.
 During this 2 weeks, meeting new people and making friends was easier than ever. 
 English language persona is well suited for that
 
-## Day 15.  20.03.2022
+## Day 15  20.03.2022
 
 A rooster outside of my window, is announcing the passing of every half-hour, instead of the expected sunrise moment.
 
@@ -110,7 +105,7 @@ Calming down and solving stuff one step at a time. I hope I'm not missing anythi
 ## 21.03-27.03 Week plan 
 Need to get a a job. Even if temporary, that would bring some peace and give more time to deal with things.
 
-## Day 16.  21.03.2022
+## Day 16  21.03.2022
 
 A queue of people are shuffling around in front of the bank doors.
 A short woman with a complexion of a fridge, tells me something in Turkish.
@@ -124,7 +119,7 @@ Arrived at a party, where I barely knew 1 person, and never seen other 3.
 10 seconds after entering the apartment, I'm realizing that the sole goal of this event, is to get utterly wasted.
 Would school me appreciate that and stay? I didn't.
 
-## Day 17.  22.03.2022
+## Day 17  22.03.2022
 
 Reading "Top N essential C# Interview Questions from Big Evil" for the interivew tomorrow. 
 I don't think that can change the outcome, but it makes you feel prepared.
@@ -136,7 +131,7 @@ I don't like hurting this particular person so much, that for a minute,for the f
 A possibility to stay in a cool place for the next week has fallen through.
 Can wait a couple days for 2 interview results until I make any moves.
 
-## Day 18.  23.03.2022
+## Day 18  23.03.2022
 
 Caught myself editing published entries days after. Would leaving the text in original state be more "true"?
 
@@ -150,13 +145,12 @@ Progress should feel nice shouldn't it?
 
 V.'s birthday, Georgian restaurant, no red wine present. Plenty of people are.
 
-## Day 19.  24.03.2022
-
+## Day 19  24.03.2022
 First time on a ferry across the Bosphorus strait. Get from one continent to another for the price of a bus ticket. 
 
 Can't really focus on things.
 
-## Day 20.  25.03.2022
+## Day 20  25.03.2022
 Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
 
 A networking meetup for Russian expats, is a room full of "creative class":  photographers, designers, models. One sexologist. People trying to sell themselves.
@@ -171,8 +165,7 @@ I don't feel it's the war to blame, but rather 27 years spent in the same jar. L
 Rooftop party with pancakes. A matress is leaning against a staircase wall, presenting a local cat on top, curled in a dream.
 This orange cream colored ball of fur, reminds me how wrecked my sleep pattern is.
 
-## Day 21.  26.03.2022
-
+## Day 21  26.03.2022
 Woke up in the middle of the night to pee. A cockroach was running around bathroom sink.
 Did it crawl out of the drain?
 I open the tap and pour water on top of it, it's light shell making it float all over the sink. 
@@ -183,8 +176,7 @@ There is something pleasant in submitting yourself to one thing.
 Distract yourself from worrying and potential dangers.
  Won't be able to relax now anyway.
 
-## Day 22.  27.03.2022
-
+## Day 22  27.03.2022
 Moved most of my stuff to AI house. His apartment is inside one of many 10+ story high residential buildings.
 Lack of open space between buildings, sweating from carrying two bags up-down the hills, place reminded me the image of Brazilian favelas.
 
@@ -194,3 +186,4 @@ Got a job. I hope it's a real one.
 There is a good chance I'll find an apartment to rent.
 Better start the process for residence permit in parallel, as it may take a while.
 Speed is more important than 200$.
+
