@@ -202,4 +202,5 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 
 ## Day 25  30.03.2022
 
-Moved in a new hostel, on the asian side of Istanbul.
+Moved in a new hostel, on the asian side of Istanbul. Met a French carpenter with a full moustache and multiple golden rings in his ears.
+At the evening we got drunk on Rakı and ate local fish. Expensive meal, but maybe carefree hours are worth it.
