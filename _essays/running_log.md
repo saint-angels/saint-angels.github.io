@@ -185,5 +185,21 @@ Got a job. I hope it's a real one.
 ## 28.03-03.04 week plan 
 There is a good chance I'll find an apartment to rent.
 Better start the process for residence permit in parallel, as it may take a while.
-Speed is more important than 200$.
+Speed is more important than 200$
 
+## Day 23  28.03.2022
+Checking rooms.
+
+One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've ment a turkish David Lynch.
+
+## Day 24  29.03.2022
+
+After travelling across the city multiple times in different directions, I start to comprehend it's scale.
+
+As walk out from real estate agent's office, a random Turkish guy starts chatting with me, and suggests to get some coffee.
+We enter small local shop, and the shopkeeper pours two cups of turkish cahve.
+Turkish guy turns out to be a history teacher, who keeps repeating my name, enjoying the sound it makes.
+
+## Day 25  30.03.2022
+
+Moved in a new hostel, on the asian side of Istanbul.
