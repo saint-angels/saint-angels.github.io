@@ -201,6 +201,40 @@ We enter small local shop, and the shopkeeper pours two cups of turkish cahve.
 Turkish guy turns out to be a history teacher, who keeps repeating my name, enjoying the sound it makes.
 
 ## Day 25  30.03.2022
+Moved in a new hostel, on the asian side of Istanbul. Met a French carpenter with a luxurious moustache and golden earrings.
+At the evening we ate local fish and got drunk on Rakı. Expensive, but maybe carefree hours are worth it.
 
-Moved in a new hostel, on the asian side of Istanbul. Met a French carpenter with a full moustache and multiple golden rings in his ears.
-At the evening we got drunk on Rakı and ate local fish. Expensive meal, but maybe carefree hours are worth it.
+## Day 26  31.03.2022
+Checked more rooms for rent, drank more coffee. 
+Had an interview with company T., even though I already have a job.
+
+Fleshy ears of a plump man on a bus stop are being pulled forward by his mask straps.
+His ears are too soft for the demands of the modern world.
+Evolution should consider making our ears muscular or have a nails-like layer for protection.
+
+## March 2022 review
+One of the most intense months I ever had. Maybe it would look simpler in perspective.
+## April 2022 plan 
+Visit a local hammam.
+
+## Day 27  01.04.2022
+David Lynch suddenly messaged me, allowing me to rent his room.
+
+Today is H's birthday and he is fixing his special carpenter pants by sewing a golden button to them.
+These pants are wide at the calf, and I imagine that's what sailors were wearing back in the day.
+
+At the evening we celebrate the birthday by grabbing a couple of beers from local "shop of sin", and going to a Kadikoy's lighthouse.
+After lighthouse concrete base sucked all heat from hour bodies, we return to a hostel bar. A cat with malformed face, participant of many fights, is jumping from table to table and crawling near the ceiling.
+
+## Day 28 02.04.2022
+A third morning in a row with hangover. I'm getting used to it. 
+While still halfway asleep, I hear the click-click sound of nails being clipped, suggesting that our bathroom is occupied.
+Took me a few cycles of waking up and dosing off, to realize it's click-click is the sound of the hostel's radiator.
+
+Under my bunk bed is a guy right after receiving hair transplants. The skin on his head is bleeding, and his sheets are soaked with blood.
+Air inside the room feels stale and sour, after 6 people breathed it through the night. I open the door to the balcony.
+
+Went for a breakfast with a guy from Tennessee, so that we can chat about US gun laws. 
+
+Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours riding to Istanbul islands and back.
+Islands look like a proper place to rest, and this idea is supported by a proper Kokorech sandwich from their harbor.
