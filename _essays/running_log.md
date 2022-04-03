@@ -99,7 +99,9 @@ This orange cream colored ball of fur, reminds me how wrecked my sleep pattern i
 ## Day 19  24.03.2022
 First time on a ferry across the Bosphorus strait. Get from one continent to another for the price of a bus ticket.
 
-Can't really focus on things.
+Can't focus on things.
+If rocks wouln't be so slippery, I would've licked the sea. 
+![](/assets/images/running_log/24_03.jpg)
 
 ## Day 18  23.03.2022
 Caught myself editing published entries days after. Would leaving the text in original state be more "true"?
