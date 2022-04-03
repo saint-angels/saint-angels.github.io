@@ -7,6 +7,7 @@ draft_readers:
 My flatmate doesn't speak english much, so I've started learning Italian and speaking through google translate.
 
 Previous renter of my room took a table with her, so for the foreseable future, the kitchen is my office space.
+
 ![](/assets/images/running_log/03_04.jpg)
 
 ## Day 28 02.04.2022
@@ -21,6 +22,7 @@ Went for a breakfast with a guy from Tennessee, so that we can chat about US gun
 
 Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours on the way to Istanbul islands and back.
 Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
+
 ![](/assets/images/running_log/02_04.jpg)
 
 ## Day 27  01.04.2022
@@ -60,6 +62,7 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 Took a ferry across Bosphorus to check more rooms for rent.
 
 One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
+
 ![](/assets/images/running_log/28_03.jpg)
 
 ## 28.03-03.04 week plan
@@ -83,6 +86,7 @@ Spent the day locked in an apartment, searching for a room to rent on facebook g
 There is something pleasant in submitting yourself to one thing.
 Distract yourself from worrying and potential dangers.
  Won't be able to relax now anyway.
+ 
 ![](/assets/images/running_log/26_03.jpg)
 ## Day 20  25.03.2022
 Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
@@ -104,6 +108,7 @@ First time on a ferry across the Bosphorus strait. Get from one continent to ano
 
 Can't focus on things.
 If rocks wouln't be so slippery, I would've licked the sea. 
+
 ![](/assets/images/running_log/24_03.jpg)
 
 ## Day 18  23.03.2022
@@ -129,6 +134,7 @@ I don't like hurting this particular person so much, that for a minute,for the f
 
 A possibility to stay in a cool place for the next week has fallen through.
 Can wait a couple days for 2 interview results until I make any moves.
+
 ![](/assets/images/running_log/22_03.jpg)
 
 ## Day 16  21.03.2022
@@ -176,6 +182,7 @@ Just like me, or anyone else.
 
 During this 2 weeks, meeting new people and making friends was easier than ever.
 English language persona is well suited for that
+
 ![](/assets/images/running_log/19_03.jpg)
 
 ## Day 13  18.03.2022
@@ -245,4 +252,5 @@ Apartment is a two story aparment, standing on a tight slope.
 Second floor is not level and has enough space inside to host a population of mice. Regarding their survival in the city of cats, my bet is that abundant cat food, scattered around the streets is also edible by other species.
 
 A comfy place all in all, even without a mother figure, who wouldn't leave slices of avocado alone to decompose without a proper burial.
+
 ![](/assets/images/running_log/10_03.jpg)
