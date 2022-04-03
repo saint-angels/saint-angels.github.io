@@ -6,7 +6,7 @@ draft_readers:
 ## Day 29 03.04.2022
 My flatmate doesn't speak english much, so complex ideas are discussed with mechanical clacks of google translate accent.
 
-Girl who rented the room before me, took a table with her. For the foreseable future, the kitchen is my office space.
+Girl who rented the room before me, took a table with her. For the foreseable future, the kitchen is my office.
 
 ![](/assets/images/running_log/03_04.jpg)
 
@@ -17,6 +17,8 @@ Took me a few cycles of waking up and dosing off, to realize it's click-click is
 
 Under my bunk bed is a guy right after receiving hair transplants. The skin on his head is bleeding, and his sheets are soaked with blood.
 Air inside the room feels stale and sour, after 6 people breathed it through the night. I open the door to the balcony.
+
+Woke up H. and shook his sleepy hand. 
 
 ![](/assets/images/running_log/02_04.jpg)
 
