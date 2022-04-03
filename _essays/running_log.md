@@ -18,12 +18,12 @@ Took me a few cycles of waking up and dosing off, to realize it's click-click is
 Under my bunk bed is a guy right after receiving hair transplants. The skin on his head is bleeding, and his sheets are soaked with blood.
 Air inside the room feels stale and sour, after 6 people breathed it through the night. I open the door to the balcony.
 
+![](/assets/images/running_log/02_04.jpg)
+
 Went for a breakfast with a guy from Tennessee, so that we can chat about US gun laws.
 
 Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours on the way to Istanbul islands and back.
 Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
-
-![](/assets/images/running_log/02_04.jpg)
 
 ## Day 27  01.04.2022
 David Lynch suddenly messaged me, notifying that I can rent his room.
