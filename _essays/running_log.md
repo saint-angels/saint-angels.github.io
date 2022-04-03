@@ -3,6 +3,8 @@ title: Running log
 date: 2022-03-07
 draft_readers:
 ---
+## Day 29 03.04.2022
+
 
 ## Day 28 02.04.2022
 A third morning in a row with hangover. I'm getting used to it.
@@ -16,6 +18,7 @@ Went for a breakfast with a guy from Tennessee, so that we can chat about US gun
 
 Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours riding to Istanbul islands and back.
 Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
+![](/assets/images/02_04.jpg "Island harbour")
 
 ## Day 27  01.04.2022
 David Lynch suddenly messaged me, allowing me to rent his room.
