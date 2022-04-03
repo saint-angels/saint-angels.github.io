@@ -61,9 +61,9 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 ## Day 23  28.03.2022
 Took a ferry across Bosphorus to check more rooms for rent.
 
-One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
-
 ![](/assets/images/running_log/28_03.jpg)
+
+One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
 
 ## 28.03-03.04 week plan
 There is a good chance I'll find an apartment to rent.
@@ -88,6 +88,7 @@ Distract yourself from worrying and potential dangers.
  Won't be able to relax now anyway.
  
 ![](/assets/images/running_log/26_03.jpg)
+
 ## Day 20  25.03.2022
 Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
 
@@ -125,6 +126,8 @@ Progress should feel nice shouldn't it?
 VZ's birthday, Georgian restaurant, no red wine present. Plenty of people are.
 
 ## Day 17  22.03.2022
+![](/assets/images/running_log/22_03.jpg)
+
 Reading "Top N essential C# Interview Questions from Big Evil" for the interivew tomorrow.
 I don't think that can change the outcome, but it makes you feel prepared.
 
@@ -134,8 +137,6 @@ I don't like hurting this particular person so much, that for a minute,for the f
 
 A possibility to stay in a cool place for the next week has fallen through.
 Can wait a couple days for 2 interview results until I make any moves.
-
-![](/assets/images/running_log/22_03.jpg)
 
 ## Day 16  21.03.2022
 A queue of people are shuffling around in front of the bank doors.
@@ -180,10 +181,10 @@ They were rich and powerful. They were afraid to be forgotten, and spent riches 
 Now they are dust, and soon the memory will be dust as well.
 Just like me, or anyone else.
 
+![](/assets/images/running_log/19_03.jpg)
+
 During this 2 weeks, meeting new people and making friends was easier than ever.
 English language persona is well suited for that
-
-![](/assets/images/running_log/19_03.jpg)
 
 ## Day 13  18.03.2022
 Met a friend DV from Saint-Petersburg, on a random Istanbul alley. This city is the world, in some ways.
@@ -232,6 +233,8 @@ it's still snowing, a few strangers, engaged in snowball fights, have thrown sno
 Our neighborhood has a lot of kids riding the slopes on plastic bags. That looks so joyous, that I join them, go too fast, fumble, crash into a sidewalk stairs and roll on the slope, hitting a few bones painfully enough, to start using smaller slopes.
 I don't remember seeing whole neighborhoods participating in such snow galore. A christmas spirit.
 
+![](/assets/images/running_log/12_03.jpg)
+
 ## Day 6.  11.03.2022
 Visited a party for russian expats.
 They felt like foreigners who just happen to speak the same language.
@@ -248,9 +251,9 @@ After figuring out how to say "1 coffee" in turkish, I was eager to whisper thes
 Lord knows the reasons for this, but my words were interpreted as a wish for a cup of metallic-tasting instant "nescafe".
 How a country, which cares deeply about this particular beverage, can do that to a human being is beyond me.
 
+![](/assets/images/running_log/10_03.jpg)
+
 Apartment is a two story aparment, standing on a tight slope.
 Second floor is not level and has enough space inside to host a population of mice. Regarding their survival in the city of cats, my bet is that abundant cat food, scattered around the streets is also edible by other species.
 
 A comfy place all in all, even without a mother figure, who wouldn't leave slices of avocado alone to decompose without a proper burial.
-
-![](/assets/images/running_log/10_03.jpg)
