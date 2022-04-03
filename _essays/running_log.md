@@ -1,5 +1,5 @@
 ---
-title: running log
+title: Running log
 date: 2022-03-07
 draft_readers: 
 ---
@@ -16,6 +16,7 @@ Apartment is a two story aparment, standing on a tight slope.
 Second floor is not level and has enough space inside to host a population of mice. Regarding their survival in the city of cats, my bet is that abundant cat food, scattered around the streets is also edible by other species.
 
 A comfy place all in all, even without a mother figure, who wouldn't leave slices of avocado alone to decompose without a proper burial. 
+
 ## Day 6.  11.03.2022
 Visited a party for russian expats.
 They felt like foreigners who just happen to speak the same language.
@@ -237,4 +238,6 @@ Air inside the room feels stale and sour, after 6 people breathed it through the
 Went for a breakfast with a guy from Tennessee, so that we can chat about US gun laws. 
 
 Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours riding to Istanbul islands and back.
-Islands look like a proper place to rest, and this idea is supported by a proper Kokorech sandwich from their harbor.
+Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
+
+![The San Juan Mountains are beautiful!](/assets/images/home.png "San Juan Mountains")
