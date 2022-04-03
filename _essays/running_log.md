@@ -4,9 +4,9 @@ date:
 draft_readers:
 ---
 ## Day 29 03.04.2022
-My flatmate doesn't speak english much, so I've started learning Italian and speaking through google translate.
+My flatmate doesn't speak english much, so complex ideas are discussed with mechanical clacks of google translate accent.
 
-Previous renter of my room took a table with her, so for the foreseable future, the kitchen is my office space.
+Girl who rented the room before me, took a table with her. For the foreseable future, the kitchen is my office space.
 
 ![](/assets/images/running_log/03_04.jpg)
 
