@@ -30,6 +30,7 @@ David Lynch suddenly messaged me, notifying that I can rent his room.
 
 Today is H's birthday and he is fixing his special carpenter pants by sewing a golden button to them.
 These pants are wide at the calf, and I imagine that's what sailors were wearing back in the day.
+
 ![](/assets/images/running_log/01_04.jpg)
 
 At the evening we celebrate the birthday by grabbing a couple of beers from local "shop of sin", and going to a Kadikoy's lighthouse.
