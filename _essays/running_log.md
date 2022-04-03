@@ -218,6 +218,8 @@ Caught a cold. Allowing myself to rest instead of constantly stressing about ren
 ## Day 7.  12.03.2022
 Today I'm relying on Starbucks as a workplace, which feels like a familiar western crutch in the land of million local coffee caves.
 
+![](/assets/images/running_log/12_03_2.jpg)
+
 Picked a burger joint because they were blasting remixes of Eminem's old classics, and their competitor across the street didn't.
 
 Caught a moment where it felt like the whole world is against me.
