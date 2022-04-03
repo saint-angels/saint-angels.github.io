@@ -16,9 +16,9 @@ Air inside the room feels stale and sour, after 6 people breathed it through the
 
 Went for a breakfast with a guy from Tennessee, so that we can chat about US gun laws.
 
-Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours riding to Istanbul islands and back.
+Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours on the way to Istanbul islands and back.
 Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
-![](/assets/images/02_04.jpg "Island harbour")
+![]({{site.baseurl}}/assets/images/02_04.jpg "")
 
 ## Day 27  01.04.2022
 David Lynch suddenly messaged me, allowing me to rent his room.
@@ -56,7 +56,8 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 ## Day 23  28.03.2022
 Checking rooms.
 
-One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've ment a turkish David Lynch.
+One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
+![]({{site.baseurl}}/assets/images/02_04.jpg "")
 
 ## 28.03-03.04 week plan
 There is a good chance I'll find an apartment to rent.
