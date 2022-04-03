@@ -1,6 +1,6 @@
 ---
 title: Running log
-date: 
+hide_date: true 
 draft_readers:
 ---
 ## Day 29 03.04.2022
