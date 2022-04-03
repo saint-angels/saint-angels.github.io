@@ -176,6 +176,7 @@ Just like me, or anyone else.
 
 During this 2 weeks, meeting new people and making friends was easier than ever.
 English language persona is well suited for that
+![](/assets/images/running_log/19_03.jpg)
 
 ## Day 13  18.03.2022
 Met a friend DV from Saint-Petersburg, on a random Istanbul alley. This city is the world, in some ways.
