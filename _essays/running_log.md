@@ -6,6 +6,10 @@ draft_readers:
 ## Day 29 03.04.2022
 My flatmate doesn't speak english much, so I've started learning Italian and speaking through google translate.
 
+Previous renter of my room took a table with her, so for the foreseable future, the kitchen is my office space.
+
+![](/assets/images/running_log/03_04.jpg)
+
 ## Day 28 02.04.2022
 A third morning in a row with hangover. I'm getting used to it.
 While still halfway asleep, I hear the click-click sound of nails being clipped, suggesting that our bathroom is occupied.
