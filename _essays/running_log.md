@@ -126,6 +126,7 @@ I don't like hurting this particular person so much, that for a minute,for the f
 
 A possibility to stay in a cool place for the next week has fallen through.
 Can wait a couple days for 2 interview results until I make any moves.
+![](/assets/images/running_log/22_03.jpg)
 
 ## Day 16  21.03.2022
 A queue of people are shuffling around in front of the bank doors.
