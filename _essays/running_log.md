@@ -4,9 +4,7 @@ date: 2022-03-07
 draft_readers:
 ---
 ## Day 29 03.04.2022
-My flatmate doesn't speak much english, so I've started learning Italian and relying on google translate.
-
- l
+My flatmate doesn't speak english much, so I've started learning Italian and speaking through google translate voice.
 
 ## Day 28 02.04.2022
 A third morning in a row with hangover. I'm getting used to it.
@@ -20,7 +18,7 @@ Went for a breakfast with a guy from Tennessee, so that we can chat about US gun
 
 Moving to a room I've rented. Jumped on a wrong ferry, and spent couple hours on the way to Istanbul islands and back.
 Kokorech sandwich from an island harbor is full of fat, spices and chewy intestines.
-![]({{site.baseurl}}/assets/images/02_04.jpg "")
+![]({{site.url}}/assets/images/running_log/02_04.jpg "")
 
 ## Day 27  01.04.2022
 David Lynch suddenly messaged me, notifying that I can rent his room.
@@ -56,10 +54,10 @@ We enter small local shop, and the shopkeeper pours two cups of turkish cahve.
 Turkish guy turns out to be a history teacher, who keeps repeating my name, enjoying the sound it makes.
 
 ## Day 23  28.03.2022
-Checking rooms.
+Took a ferry across Bosphorus to check more rooms for rent.
+![]({{site.url}}/assets/images/running_log/28_03.jpg "")
 
 One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
-![]({{site.baseurl}}/assets/images/28_03.jpg "")
 
 ## 28.03-03.04 week plan
 There is a good chance I'll find an apartment to rent.
