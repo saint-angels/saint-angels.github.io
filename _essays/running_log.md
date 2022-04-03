@@ -4,7 +4,9 @@ date: 2022-03-07
 draft_readers:
 ---
 ## Day 29 03.04.2022
+My flatmate doesn't speak much english, so I've started learning Italian and relying on google translate.
 
+ l
 
 ## Day 28 02.04.2022
 A third morning in a row with hangover. I'm getting used to it.
@@ -21,7 +23,7 @@ Kokorech sandwich from an island harbor is full of fat, spices and chewy intesti
 ![]({{site.baseurl}}/assets/images/02_04.jpg "")
 
 ## Day 27  01.04.2022
-David Lynch suddenly messaged me, allowing me to rent his room.
+David Lynch suddenly messaged me, notifying that I can rent his room.
 
 Today is H's birthday and he is fixing his special carpenter pants by sewing a golden button to them.
 These pants are wide at the calf, and I imagine that's what sailors were wearing back in the day.
@@ -57,7 +59,7 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 Checking rooms.
 
 One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
-![]({{site.baseurl}}/assets/images/02_04.jpg "")
+![]({{site.baseurl}}/assets/images/28_03.jpg "")
 
 ## 28.03-03.04 week plan
 There is a good chance I'll find an apartment to rent.
