@@ -7,7 +7,6 @@ draft_readers:
 My flatmate doesn't speak english much, so I've started learning Italian and speaking through google translate.
 
 Previous renter of my room took a table with her, so for the foreseable future, the kitchen is my office space.
-
 ![](/assets/images/running_log/03_04.jpg)
 
 ## Day 28 02.04.2022
@@ -245,3 +244,4 @@ Apartment is a two story aparment, standing on a tight slope.
 Second floor is not level and has enough space inside to host a population of mice. Regarding their survival in the city of cats, my bet is that abundant cat food, scattered around the streets is also edible by other species.
 
 A comfy place all in all, even without a mother figure, who wouldn't leave slices of avocado alone to decompose without a proper burial.
+![](/assets/images/running_log/10_03.jpg)
