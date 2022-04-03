@@ -55,9 +55,9 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 
 ## Day 23  28.03.2022
 Took a ferry across Bosphorus to check more rooms for rent.
-![](/assets/images/running_log/28_03.jpg)
 
 One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
+![](/assets/images/running_log/28_03.jpg)
 
 ## 28.03-03.04 week plan
 There is a good chance I'll find an apartment to rent.
@@ -67,8 +67,8 @@ Speed is more important than 200$
 ## 21.03-27.03 week review
 Got a job. I hope it's a real one.
 ## Day 22  27.03.2022
-Moved most of my stuff to AI house. His apartment is inside one of many 10+ story high residential buildings.
-Lack of open space between buildings, sweating from carrying two bags up-down the hills, place reminded me the image of Brazilian favelas.
+Moved most of my stuff to A.I. house. His apartment is inside one of many 10+ story high residential buildings.
+Lack of open space between buildings and sweat from carrying two bags up-down the hills, place reminded me the image of Brazilian favelas.
 
 ## Day 21  26.03.2022
 Woke up in the middle of the night to pee. A cockroach was running around bathroom sink.
@@ -80,7 +80,7 @@ Spent the day locked in an apartment, searching for a room to rent on facebook g
 There is something pleasant in submitting yourself to one thing.
 Distract yourself from worrying and potential dangers.
  Won't be able to relax now anyway.
-
+![](/assets/images/running_log/26_03.jpg)
 ## Day 20  25.03.2022
 Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
 
