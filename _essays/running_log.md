@@ -3,6 +3,12 @@ title: Running log
 hide_date: true 
 draft_readers:
 ---
+### Day 30 04.04.2022
+Realized that I'm basically collecting tweets here.
+
+In a notary office, young afgan(?) girl is leaning against the wall. Her hoodie says "2PAC 4ever".
+![](/assets/images/running_log/04_04.jpg)
+
 ### Day 29 03.04.2022
 My flatmate doesn't speak english much, so complex ideas are discussed with mechanical clacks of google translate accent.
 
