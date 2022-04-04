@@ -9,6 +9,8 @@ Realized that I'm basically collecting tweets here.
 In a notary office, young afgan(?) girl is leaning against the wall. Her hoodie says "2PAC 4ever".
 ![](/assets/images/running_log/04_04.jpg)
 
+The tragedy of Istanbul, is that you can buy vegetables on every corner, but only the same wrinkly tomatoes and cucumbers.
+
 ### Day 29 03.04.2022
 My flatmate doesn't speak english much, so complex ideas are discussed with mechanical clacks of google translate accent.
 
