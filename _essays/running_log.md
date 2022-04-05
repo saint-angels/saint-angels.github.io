@@ -12,7 +12,7 @@ There is no official requirement for the pink folder, but everyone has it.
 If this kafkaesque application for a residency permit fails, I'd have to get out of the country.
 Part of me would really like mull over this "what if".
 
-Without any pressing tasks in the coming days, my mind wanders. Not used to this.
+Without any pressing tasks in the next few days, my mind runs like an empty blender.
 
 ### Day 30 04.04.2022
 In a notary office, young afgan(?) girl is leaning against the wall. Her hoodie says "2PAC 4ever".
