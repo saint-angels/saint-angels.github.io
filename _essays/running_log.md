@@ -3,11 +3,26 @@ title: Running log
 hide_date: true 
 draft_readers:
 ---
-### Day 30 04.04.2022
-Realized that I'm basically collecting tweets here.
+### Day 31 05.04.2022
+Standing in a caged queue, holding a pink folder with documents in hand.
+There is no official requirement for the pink folder, but everyone has it. 
 
+![](/assets/images/running_log/05_04.jpg)
+
+If this kafkaesque application for a residency permit fails, I'd have to get out of the country.
+Part of me would really like mull over this "what if".
+
+Without any pressing tasks in the coming days, my mind wanders. Not used to this.
+
+### Day 30 04.04.2022
 In a notary office, young afgan(?) girl is leaning against the wall. Her hoodie says "2PAC 4ever".
+
 ![](/assets/images/running_log/04_04.jpg)
+
+I consider what gestures are suited to ask her for better photo.
+\*Points to her hoodie, raises his hand and shows the horns. Then a gesture of pressing a shutter button on a phone..\*
+
+I give myself some excuse to not do any of that, and the girl is rushed away by people with documents.
 
 The tragedy of Istanbul, is that you can buy vegetables on every corner, but only the same wrinkly tomatoes and cucumbers.
 
