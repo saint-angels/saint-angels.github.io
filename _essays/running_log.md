@@ -3,6 +3,27 @@ title: Running log
 hide_date: true 
 draft_readers:
 ---
+### Day 35 09.04.2022
+On a 16hr bus ride across Turkey to Alanya to meet the sea and get distracted.
+
+It's 9pm. Did't have lunch and getting hungrier by the minute.
+Bus stops are 5-10 minutes long so far, so I never wander away.
+This stop has an enticing canteen, and a girl from my bus is already selecting dishes.
+She looks turkish, she should know how long the stop lasts, right?
+Deciding to risk it, I pick pilav and soup, keeping the girl in sight.
+My speed of dealing with food, reminds me of a story  how Elon Musk can swallow a burger in seconds.
+
+I can't see the bus from the table, but the girl still here, as bus should be.
+Rush out, mouth full of rice, still chewing.
+There are no buses outside. This is bad. Maybe the girl didn't plan to return to the bus?
+Doing a few 360 degree spins on my heels to check people around me. They look unfamiliar. 
+Feel thankful for bringing my passport in a bulging pocket of my pants.
+
+Calling the bus company office...reveals that the bus is gone to refill the gas and will be back soon.
+Breathe out.
+
+
+
 ### Day 32 06.04.2022
 Would love to spend a month in comfort, doing nothing productive, knowing nothing would happen.
 From a grand cosmic perspective, nothing would.
