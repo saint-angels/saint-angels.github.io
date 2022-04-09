@@ -5,6 +5,7 @@ draft_readers:
 ---
 ### Day 32 06.04.2022
 Would love to spend a month in comfort, doing nothing productive, knowing nothing would happen.
+From a grand cosmic perspective, nothing would.
 
 ### Day 31 05.04.2022
 Standing in a caged queue, holding a pink folder with documents in hand.
