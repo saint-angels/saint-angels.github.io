@@ -4,7 +4,7 @@ hide_date: true
 draft_readers:
 ---
 ### Day 35 09.04.2022
-On a 16hr bus ride across Turkey to Alanya to meet the sea and get distracted.
+On a 16hr bus ride across Turkey to Alanya to meet the sea and clear my head.
 
 It's 9pm. Did't have lunch and getting hungrier by the minute.
 Bus stops are 5-10 minutes long so far, so I never wander away.
