@@ -22,11 +22,9 @@ Feel thankful for bringing my passport in a bulging pocket of my pants.
 Calling the bus company office...reveals that the bus is gone to refill the gas and will be back soon.
 Breathe out.
 
-
-
 ### Day 32 06.04.2022
 Would love to spend a month in comfort, doing nothing productive, knowing nothing would happen.
-From a grand cosmic perspective, nothing would.
+From a grand cosmic perspective, nothing really *can* happen.
 
 ### Day 31 05.04.2022
 Standing in a caged queue, holding a pink folder with documents in hand.
