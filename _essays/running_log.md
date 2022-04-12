@@ -3,6 +3,19 @@ title: Running log
 hide_date: true 
 draft_readers:
 ---
+### Day 38 12.04.2022
+You're supposed to feel many beutiful things when you run on the beach.
+Main feeling I got, was the feeling of mixing mushy, wet dough with my feet with every push.
+
+Public nature of these entries affects how and what I write.
+Public nature is not only pushing me to refine the text, but also compelling to focus on some things and omit others.
+Compelling to create a subjectively "good" social image for myself.
+Making any image is not really a goal of this log.
+
+So the difficulty is in digging deeper without stumbling upon any of my masks, while writing about suprising things.
+
+Feeling horny, feeling dumb, feeling stressed, feeling down. 
+
 ### Day 35 09.04.2022
 On a 16hr bus ride across Turkey to Alanya to meet the sea and clear my head.
 
