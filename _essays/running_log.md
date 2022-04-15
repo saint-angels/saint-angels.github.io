@@ -7,7 +7,7 @@ draft_readers:
 ### Day 41 15.04.2022
 22:21
 Week of working from Alanya outskirts passed by.
-I could've worked from coffe shops, sitting near the beach and greenery, but that would require extra energ;y.
+I could've worked from coffe shops, sitting near the beach and greenery, but that would require extra energy.
 Instead, I was mostly slouching in a dark room on a sofa all day, tapping along the keys.
 In the evenings, I was too tired to do anything extra.
 Maybe because simple passage of time drains energy now, even when I do nothing. A leaky battery.
