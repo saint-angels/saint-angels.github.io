@@ -4,6 +4,14 @@ hide_date: true
 draft_readers:
 ---
 
+### Day 42 16.04.2022
+On the way to an old castle on the mountains surrounding Alanya, we stopped with L. at a small restaurant. It was engulfed by fruit trees and surrounded by big tin boxes from olives, used as flower pots.
+Idyllic place
+
+Going up and up under the scolding sun.
+
+An hour later I'm running on hot sand into cold water of the Mediterranian sea, wearing cheap shorts with Nike logo, purchased 5 minutes ago.
+
 ### Day 41 15.04.2022
 22:21
 Week of working from Alanya outskirts passed by.
