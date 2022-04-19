@@ -6,12 +6,14 @@ draft_readers:
 
 ### Day 42 16.04.2022
 On the way to an old castle on the mountains surrounding Alanya, we stopped with L. at a small restaurant. It was engulfed by fruit trees and surrounded by big tin boxes from olives, used as flower pots.
-Idyllic place
+Idyllic place.
+Going up and up under the scolding sun, to see the castle we will not reach.
 
-Going up and up under the scolding sun.
+An hour later I'm running on hot sand into cold sea, wearing shorts purchased 5 minutes ago.
 
-An hour later I'm running on hot sand into cold water of the Mediterranean sea, wearing cheap shorts with Nike logo, purchased 5 minutes ago.
-Is this how you recharge?
+When writing this log, I'm always thinking how to make coherent text out of the paragraphs.
+But moments, which seemed worth mentioning, are usually not connected.
+Whole thing is a brain dump.
 
 ### Day 41 15.04.2022
 22:21
