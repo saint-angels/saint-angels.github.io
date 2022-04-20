@@ -1,8 +1,20 @@
 ---
-title: Running log
+title: Running Log
 hide_date: true 
 draft_readers:
 ---
+### Day 45 19.04.2022
+It's unsettling that I wanted to move to a different country for so many years, but only a war made me do it.
+“I think the ability of the average man could be doubled if it were demanded, if the situation demanded." Will Durant
+This underlines a need to construct situations, which demand more in important areas.
+
+As they say in video games speedrunning, "Ikamet residency permit any % run" - completed in 45 days.
+Now I can stay in Turkey for a year.
+
+With Ikamet, remote job and a local bank account, the trifecta of essentials is completed.
+I can start settling down, making longer term plans.
+As the run is complete, this is it's last log entry.
+Нет войне.
 
 ### Day 42 16.04.2022
 On the way to an old castle on the mountains surrounding Alanya, we stopped with L. at a small restaurant. It was engulfed by fruit trees and surrounded by big tin boxes from olives, used as flower pots.
@@ -11,9 +23,9 @@ Going up and up under the scolding sun, to see the castle we will not reach.
 
 An hour later I'm running on hot sand into cold sea, wearing shorts purchased 5 minutes ago.
 
-When writing this log, I'm always thinking how to make coherent text out of the paragraphs.
-But moments, which seemed worth mentioning, are usually not connected.
-Whole thing is a brain dump.
+When writing this log, I'm always thinking how to make coherent text out of the paragraphs. 
+But described moments, are usually not connected. Whole thing is a brain dump in tweet form.
+Seems viable to search for a good narrative among the material afterwards, but then you're not writing it in the heat of the moment.
 
 ### Day 41 15.04.2022
 22:21
