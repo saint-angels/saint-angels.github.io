@@ -14,7 +14,7 @@ Now I can stay in Turkey for a year.
 With Ikamet, remote job and a local bank account, the trifecta of essentials is completed.
 I can start settling down, making longer term plans.
 As the run is complete, this is it's last log entry.
-Нет войне.
+Нет войне!
 
 ### Day 42 16.04.2022
 On the way to an old castle on the mountains surrounding Alanya, we stopped with L. at a small restaurant. It was engulfed by fruit trees and surrounded by big tin boxes from olives, used as flower pots.
