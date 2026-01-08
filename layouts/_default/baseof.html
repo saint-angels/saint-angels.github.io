@@ -10,12 +10,11 @@
   </head>
   <body>
     {{ partial "navigation.html" . }}
-    <div class="main">{{ block "main" . }}{{ end }}
+    <div class="main">{{ block "main" . }}{{ end }}</div>
 
-    <hr />
-    <a href="https://twitter.com/{{ .Site.Params.Social.twitter }}" target="_blank">twitter</a>
-    <!-- <a href="/subscribe">subscribe</a> -->
-
+    <div class="footer-links">
+      <a href="https://twitter.com/{{ .Site.Params.Social.twitter }}" target="_blank">twitter</a>
+      <!-- <a href="/subscribe">subscribe</a> -->
     </div>
   </body>
 </html>

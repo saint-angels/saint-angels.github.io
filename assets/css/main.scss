@@ -61,8 +61,17 @@ body {
 
   .center-image {
     margin: 0 auto;
-    display: block; 
+    display: block;
     max-width:100%;
     height: 300px;
     object-fit: scale-down;
+  }
+
+  .footer-links {
+    width: 600px;
+    margin-left: $sidenav-width;
+    margin-top: 10px;
+    border: 1px solid $borders-color;
+    padding: 10px;
+    font-family: "Verdana";
   }
