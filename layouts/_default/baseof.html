@@ -9,12 +9,15 @@
     <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}feed.xml" title="{{ .Site.Title }}">
   </head>
   <body>
-    {{ partial "navigation.html" . }}
-    <div class="main">{{ block "main" . }}{{ end }}</div>
-
-    <div class="footer-links">
-      <a href="https://twitter.com/{{ .Site.Params.Social.twitter }}" target="_blank">twitter</a>
-      <!-- <a href="/subscribe">subscribe</a> -->
+    <div class="container">
+      {{ partial "navigation.html" . }}
+      <div class="content-wrapper">
+        <div class="main">{{ block "main" . }}{{ end }}</div>
+        <div class="footer-links">
+          <a href="https://twitter.com/{{ .Site.Params.Social.twitter }}" target="_blank">twitter</a>
+          <!-- <a href="/subscribe">subscribe</a> -->
+        </div>
+      </div>
     </div>
   </body>
 </html>

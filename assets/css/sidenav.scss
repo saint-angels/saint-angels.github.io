@@ -1,13 +1,8 @@
 /* The sidebar menu */
 .sidenav {
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    overflow-x: hidden; /* Disable horizontal scroll */
+    overflow-x: hidden;
     padding-top: 10px;
     padding-bottom: 10px;
-    // padding-left: 5px;
-
-
-    display:inline-block;
   }
   
   /* The navigation menu links */

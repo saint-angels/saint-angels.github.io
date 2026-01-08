@@ -4,33 +4,35 @@ $sidenav-width: 100px;
 $link-selection-color: lightgrey;
 $background-color: rgb(240, 240, 240);
 
-* {
-    // background-color: ;
-    // font-family: Helvetica, sans-serif;
-    // cursor: crosshair;
-}
-  
 html {
-    display: table;
-    margin: auto;
+    height: 100%;
 }
 
 body {
-    display: table-cell;
-    vertical-align: middle;
-    margin:0;padding:0;  
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px 0;
     font-size: 13px;
-    // letter-spacing: normal;
+}
 
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
 }
 
 .main {
-    z-index: 1; /* Stay on top */
+    z-index: 1;
     width: 600px;
     min-height: 600px;
-    margin-right: 0px;
-    margin-left: $sidenav-width; /* Same as the width of the sidebar */
-    border:1px solid  $borders-color;
+    border: 1px solid $borders-color;
     padding: 0 10px 40px 10px;
     font-family: "Verdana";
   }
@@ -52,11 +54,10 @@ body {
   
 
   .sidenav {
-    margin-top: 28px;
     width: $sidenav-width;
-    border:1px solid $borders-color;
+    border: 1px solid $borders-color;
     border-style: solid none solid solid;
-
+    margin-right: 0;
   }
 
   .center-image {
@@ -69,7 +70,6 @@ body {
 
   .footer-links {
     width: 600px;
-    margin-left: $sidenav-width;
     margin-top: 10px;
     border: 1px solid $borders-color;
     padding: 10px;
