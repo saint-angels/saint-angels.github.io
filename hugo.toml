@@ -1,0 +1,37 @@
+baseURL = "https://withteeth.fun"
+title = "withteeth.fun"
+languageCode = "en-US"
+
+[params]
+  username = "teeth2i4"
+  email = "funwithteeth@protonmail.com"
+  description = "sinking my teeth into"
+
+[author]
+  name = "teeth2i4"
+  email = "funwithteeth@protonmail.com"
+
+[params.social]
+  twitter = "teeth2i4"
+  github = "saint-angels"
+
+# Enable RSS feeds
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+# RSS configuration
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+
+# Taxonomies (tags, categories, etc) - disabled for simplicity
+disableKinds = ["taxonomy", "term"]
+
+# Sass/SCSS configuration
+[build]
+  writeStats = false
+
+# Asset processing
+[build.buildStats]
+  enable = false

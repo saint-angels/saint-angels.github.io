@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>Essays</h1>
+<a href="/essays/feed.xml">RSS</a>
+<ul style="list-style-type:square;">
+{{ range .Pages.ByDate.Reverse }}
+    <li><a href="{{ .Permalink }}"> {{ .Title }} </a></li>
+{{ end }}
+</ul>
+{{ end }}

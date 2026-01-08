@@ -1,0 +1,12 @@
+{{ define "main" }}
+<!-- <h1>{{ .Title }}</h1> -->
+
+<a href="{{ .Params.link }}">
+	<img src="/images/personal_games/{{ .Params.big_image }}" alt="{{ .Title }}" class="center-image">
+</a>
+<header>
+    {{ if .Title }}<h1 id="page-title" class="page__title" itemprop="headline">{{ .Title | markdownify }}</h1>{{ end }}
+</header>
+<a href="{{ .Params.link }}">{{ .Params.link }}</a>
+{{ .Content }}
+{{ end }}

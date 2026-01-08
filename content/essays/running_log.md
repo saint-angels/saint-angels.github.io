@@ -77,7 +77,7 @@ From a grand cosmic perspective, nothing really *can* happen.
 Standing in a caged queue, holding a pink folder with documents in hand.
 There is no official requirement for the pink folder, but everyone has it. 
 
-![](/assets/images/running_log/05_04.jpg)
+![](/images/running_log/05_04.jpg)
 
 If this kafkaesque application for a residency permit fails, I'd have to get out of the country.
 Part of me would really like mull over this "what if".
@@ -87,7 +87,7 @@ Without any pressing tasks in the next few days, my mind runs like an empty blen
 ### Day 30 04.04.2022
 In a notary office, young afgan(?) girl is leaning against the wall. Her hoodie says "2PAC 4ever".
 
-![](/assets/images/running_log/04_04.jpg)
+![](/images/running_log/04_04.jpg)
 
 I consider what gestures are suited to ask her for better photo.
 \*Points to her hoodie, raises his hand and shows the horns. Then a gesture of pressing a shutter button on a phone..\*
@@ -101,7 +101,7 @@ My flatmate doesn't speak english much, so complex ideas are discussed with mech
 
 Girl who rented the room before me, took a table with her. For the foreseable future, the kitchen is my office.
 
-![](/assets/images/running_log/03_04.jpg)
+![](/images/running_log/03_04.jpg)
 
 ### Day 28 02.04.2022
 A third morning in a row with hangover. I'm getting used to it.
@@ -113,7 +113,7 @@ Air inside the room feels stale and sour, after 6 people breathed it through the
 
 Woke up H. and shook his sleepy hand. 
 
-![](/assets/images/running_log/02_04.jpg)
+![](/images/running_log/02_04.jpg)
 
 Went for a breakfast with a guy from Tennessee, so that we can chat about US gun laws.
 
@@ -126,7 +126,7 @@ David Lynch suddenly messaged me, notifying that I can rent his room.
 Today is H's birthday and he is fixing his special carpenter pants by sewing a golden button to them.
 These pants are wide at the thigh, and I imagine that's what sailors were wearing back in the day.
 
-![](/assets/images/running_log/01_04.jpg)
+![](/images/running_log/01_04.jpg)
 
 At the evening we celebrate his birthday by grabbing a couple of beers from local "shop of sin", and going to a Kadikoy's lighthouse.
 After lighthouse concrete base sucked all heat from our bodies, we return to a hostel bar.
@@ -159,7 +159,7 @@ Turkish guy turns out to be a history teacher, who keeps repeating my name, enjo
 ### Day 23  28.03.2022
 Took a ferry across Bosphorus to check more rooms for rent.
 
-![](/assets/images/running_log/28_03.jpg)
+![](/images/running_log/28_03.jpg)
 
 One apartment owner is a chain smoking filmmaker with a dusty workshop in the basement. I've met a turkish David Lynch.
 
@@ -185,7 +185,7 @@ There is something pleasant in submitting yourself to one thing.
 Distract yourself from worrying and potential dangers.
  Won't be able to relax now anyway.
  
-![](/assets/images/running_log/26_03.jpg)
+![](/images/running_log/26_03.jpg)
 
 ### Day 20  25.03.2022
 Accepted the job offer. Getting used to an unfamiliar problem of searching for a long-term place to live.
@@ -208,7 +208,7 @@ First time on a ferry across the Bosphorus strait. Get from one continent to ano
 Can't focus on things.
 If rocks wouln't be so slippery, I would've licked the sea. 
 
-![](/assets/images/running_log/24_03.jpg)
+![](/images/running_log/24_03.jpg)
 
 ### Day 18  23.03.2022
 Caught myself editing published entries days after. Would leaving the text in original state be more "true"?
@@ -224,7 +224,7 @@ Progress should feel nice shouldn't it?
 VZ's birthday, Georgian restaurant, no red wine present. Plenty of people are.
 
 ### Day 17  22.03.2022
-![](/assets/images/running_log/22_03.jpg)
+![](/images/running_log/22_03.jpg)
 
 Reading "Top N essential C# Interview Questions from Big Evil" for the interivew tomorrow.
 I don't think that can change the outcome, but it makes you feel prepared.
@@ -279,7 +279,7 @@ They were rich and powerful. They were afraid to be forgotten, and spent riches 
 Now they are dust, and soon the memory will be dust as well.
 Just like me, or anyone else.
 
-![](/assets/images/running_log/19_03.jpg)
+![](/images/running_log/19_03.jpg)
 
 During this 2 weeks, meeting new people and making friends was easier than ever.
 English language persona is well suited for that
@@ -316,7 +316,7 @@ Caught a cold. Allowing myself to rest instead of constantly stressing about ren
 ### Day 7.  12.03.2022
 Today I'm relying on Starbucks as a workplace, which feels like a familiar western crutch in the land of million local coffee caves.
 
-![](/assets/images/running_log/12_03_2.jpg)
+![](/images/running_log/12_03_2.jpg)
 
 Picked a burger joint because they were blasting remixes of Eminem's old classics, and their competitor across the street didn't.
 
@@ -333,7 +333,7 @@ it's still snowing, a few strangers, engaged in snowball fights, have thrown sno
 Our neighborhood has a lot of kids riding the slopes on plastic bags. That looks so joyous, that I join them, go too fast, fumble, crash into a sidewalk stairs and roll on the slope, hitting a few bones painfully enough, to start using smaller slopes.
 I don't remember seeing whole neighborhoods participating in such snow galore. A christmas spirit.
 
-![](/assets/images/running_log/12_03.jpg)
+![](/images/running_log/12_03.jpg)
 
 ### Day 6.  11.03.2022
 Visited a party for russian expats.
@@ -351,7 +351,7 @@ After figuring out how to say "1 coffee" in turkish, I was eager to whisper thes
 Lord knows the reasons for this, but my words were interpreted as a wish for a cup of metallic-tasting instant "nescafe".
 How a country, which cares deeply about this particular beverage, can do that to a human being is beyond me.
 
-![](/assets/images/running_log/10_03.jpg)
+![](/images/running_log/10_03.jpg)
 
 Apartment is a two story aparment, standing on a tight slope.
 Second floor is not level and has enough space inside to host a population of mice. Regarding their survival in the city of cats, my bet is that abundant cat food, scattered around the streets is also edible by other species.

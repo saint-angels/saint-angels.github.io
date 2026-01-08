@@ -1,0 +1,21 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ if not .Params.hide_date }}
+<p>
+    {{ .Date.Format "January 2006" }}
+</p>
+{{ end }}
+
+{{ .Content }}
+{{ if .Params.draft_readers }}
+<div>
+  <b>Thanks</b> to {{ .Params.draft_readers }} for reading drafts of this.
+</div>
+{{ end }}
+{{ if .Params.time_logged }}
+<!-- <a id="logged" style="color:grey"> -->
+<!--     Time {{ if .Params.time_logged }} logged: {{ .Params.time_logged }}{{ end }} -->
+<!-- </a> -->
+{{ end }}
+{{ end }}

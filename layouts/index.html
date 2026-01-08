@@ -1,0 +1,6 @@
+{{ define "main" }}
+{{ if .Params.image }}
+<img src="/images/{{ .Params.image }}" class="center-image" alt="photo">
+{{ end }}
+{{ .Content }}
+{{ end }}
