@@ -2,6 +2,7 @@
 title: Running Log
 hide_date: true 
 draft_readers:
+date: 2022-03-22
 ---
 ### Day 45 19.04.2022
 It's unsettling that I wanted to move to a different country for so many years, but only a war made me do it.

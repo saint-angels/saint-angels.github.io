@@ -1,9 +1,9 @@
 {{ define "main" }}
 <h1>Games</h1>
-<a href="/games/feed.xml">RSS</a>
 <ul style="list-style-type:square;">
 {{ range .Pages.ByDate.Reverse }}
     <li><a href="{{ .Permalink }}"> {{ .Title }} </a></li>
 {{ end }}
 </ul>
+<div style="margin-left: 40px;"><a href="/games/feed.xml">RSS</a></div>
 {{ end }}

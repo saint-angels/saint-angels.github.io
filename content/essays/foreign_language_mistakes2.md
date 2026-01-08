@@ -1,5 +1,5 @@
 ---
-title: Errors in learning a foreign language, 2 years in
+title: Errors in learning Chinese, 2 years in
 date: 2021-04-02
 draft_readers: Simone
 time_logged: 24h 8m
