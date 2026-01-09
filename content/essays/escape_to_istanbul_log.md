@@ -1,6 +1,6 @@
 ---
-title: Running Log
-hide_date: true 
+title: "Escape to Istanbul: Log"
+hide_date: true
 draft_readers:
 date: 2022-03-22
 ---
