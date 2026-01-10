@@ -1,5 +1,5 @@
 ---
-image: home_2.png
+image: home_duck_only.png
 ---
 
 Hello!
