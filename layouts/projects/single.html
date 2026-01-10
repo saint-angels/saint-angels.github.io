@@ -7,5 +7,9 @@
 </p>
 {{ end }}
 
+{{ if .Params.link }}
+<a href="{{ .Params.link }}">{{ .Params.link }}</a>
+{{ end }}
+
 {{ .Content }}
 {{ end }}

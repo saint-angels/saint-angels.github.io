@@ -3,10 +3,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const canvas = document.getElementById('cube-bg');
   if (!canvas) return;
 
-  // Set canvas size to match image dimensions (300px height)
-  const size = 300;
-  canvas.width = size;
-  canvas.height = size;
+  // Set canvas size to match parent container width and 300px height
+  const width = canvas.offsetWidth;
+  const height = 300;
+  canvas.width = width;
+  canvas.height = height;
 
   // Initialize Three.js renderer
   const renderer = new THREE.WebGLRenderer({
@@ -14,13 +15,13 @@ document.addEventListener('DOMContentLoaded', function() {
     alpha: true,
     antialias: true
   });
-  renderer.setSize(size, size);
+  renderer.setSize(width, height);
 
   // Create scene
   const scene = new THREE.Scene();
 
   // Create camera
-  const camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000);
+  const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
   camera.position.z = 2;
 
   // Create wireframe cube sized to fit image

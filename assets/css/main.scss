@@ -44,8 +44,7 @@ body {
 
 #cube-bg {
   display: block;
-  margin: 0 auto;
-  width: 300px;
+  width: 100%;
   height: 300px;
 }
 
@@ -117,6 +116,10 @@ body {
   }
 
   .date-gray {
+    color: #999;
+  }
+
+  .rss-link {
     color: #999;
   }
 
