@@ -1,6 +1,5 @@
 ---
 title: Tower Of Nam
-small_image: tower_of_nam_small.png
 big_image: tower_of_nam_large.gif
 link: https://saint-angels.itch.io/tower-of-nam
 date: 2018-01-26

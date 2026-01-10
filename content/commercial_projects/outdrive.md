@@ -1,7 +1,6 @@
 ---
 layout: commercial_project
 title: Outdrive
-small_image: outdrive_small.jpg
 big_image: outdrive_large.jpg
 link: http://store.steampowered.com/app/441870/
 date: 2016-02-01

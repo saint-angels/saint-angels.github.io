@@ -1,7 +1,6 @@
 ---
 layout: commercial_project
 title: Tochka Banking App
-small_image: tochka_small.jpg
 big_image: tochka_small.jpg
 link: https://tochka.com/
 date: 2014-12-01

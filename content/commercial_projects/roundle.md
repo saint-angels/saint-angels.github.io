@@ -1,7 +1,6 @@
 ---
 layout: commercial_project
 title: Roundle
-small_image: roundle.jpg
 big_image: roundle.jpg
 link: https://itunes.apple.com/us/app/roundle/id1095252483?mt=8
 date: 2016-05-01

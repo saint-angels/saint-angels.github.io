@@ -1,6 +1,5 @@
 ---
 title: Hey
-small_image: hey_small.jpg
 big_image: hey_large.jpg
 link: http://gamejolt.com/games/hey/129900
 date: 2016-03-10

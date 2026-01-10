@@ -1,6 +1,5 @@
 ---
 title: Rebel Dancer
-small_image: rebel_dancer_small.jpg
 big_image: rebel_dancer_large.jpg
 link: http://gamejolt.com/games/rebel-dancer/113968
 date: 2015-12-10

@@ -1,5 +1,5 @@
 <nav class="sidenav">
   {{ range .Site.Data.navigation.items }}
-    <a href="{{ .link }}" {{ if eq $.Page.RelPermalink .link }}class="current"{{ end }}>{{ .name }}</a>
+    <a href="{{ .link }}" {{ if or (eq $.Page.RelPermalink .link) (eq $.Page.RelPermalink (printf "%s/" .link)) (hasPrefix $.Page.RelPermalink (printf "%s/" .link)) }}class="current"{{ end }}>{{ .name }}</a>
   {{ end }}
 </nav>

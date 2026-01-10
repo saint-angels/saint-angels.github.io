@@ -1,6 +1,5 @@
 ---
 title: Unbelievable Deals Of Loving
-small_image: unbelievable_deals_of_loving_small.png
 big_image: unbelievable_deals_of_loving_large.png
 link: https://saint-angels.itch.io/unbelievable-deals-of-loving
 date: 2016-12-13

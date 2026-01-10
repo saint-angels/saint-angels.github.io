@@ -1,7 +1,6 @@
 ---
 layout: commercial_project
 title: HTC Vive VR game for an escape-room.
-small_image: escape_room_vr_small.jpg
 big_image: escape_room_vr.gif
 link: 
 date: 2017-03-01

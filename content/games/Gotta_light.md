@@ -1,6 +1,5 @@
 ---
 title: Gotta light?
-small_image: gotta_light_small.png
 big_image: gotta_light_large.png
 link: https://saint-angels.itch.io/gotta-light
 date: 2018-08-02

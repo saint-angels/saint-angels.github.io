@@ -3,5 +3,7 @@ items:
     link: /
   - name: Essays
     link: /essays
+  - name: Projects
+    link: /projects
   - name: Games
     link: /games
