@@ -78,7 +78,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     // font-family: "Courier New";
     // border:1px solid $borders-color;
-    font-size: 42px;
+    font-size: 32px;
     font-weight: 400;
 
   }
@@ -121,6 +121,11 @@ body {
 
   .rss-link {
     color: #999;
+  }
+
+  .essay-header-image {
+    display: block;
+    width: 50%;
   }
 
   .main li {

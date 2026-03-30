@@ -1,10 +1,15 @@
 {{ define "main" }}
+
 <h1>{{ .Title }}</h1>
 
 {{ if not .Params.hide_date }}
 <p>
     {{ .Date.Format "January 2006" }}
 </p>
+{{ end }}
+
+{{ with .Params.image }}
+<img src="/images/{{ . }}" class="essay-header-image">
 {{ end }}
 
 {{ .Content }}
